@@ -5,7 +5,7 @@
 
 The Concept Bottleneck Model (CBM) is an emerging self-explainable architecture that first maps inputs to a set of human-interpretable concepts before making predictions using an interpretable classifier, typically a single-layer linear model. Beyond inherent interpretability, CBMs provide an intervention interface through the concept bottleneck layer, allowing users to directly modify concept activations to refine model predictions, and this serves as the most significant difference between CBMs and other explainable models, such as the CapsulesNet and ProtoPNet.
 
-![image_from_IntCEMs](https://github.com/riverback/Awesome-Concept-Bottleneck-Models/assets/IntCEMs.png)
+![image_from_IntCEMs](https://github.com/riverback/Awesome-Concept-Bottleneck-Models/blob/master/assets/IntCEMs.png)
 
 (images from IntCEMs, highlighting the interpretability and intervention ability of CBM architectures)
 
