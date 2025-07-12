@@ -116,6 +116,7 @@ The Concept Bottleneck Model (CBM) is an emerging self-explainable architecture 
 | CVPR | [LVLM-Interpret: An Interpretability Tool for Large Vision-Language Models](https://arxiv.org/pdf/2404.03118) | [Code](https://github.com/IntelLabs/lvlm-interpret) |
 | CVPR | [Incremental Residual Concept Bottleneck Models](https://doi.org/10.1109/cvpr52733.2024.01049) |  [Code](https://github.com/helloscm/res-cbm)|
 | ECCV | [Discover-then-Name: Task-Agnostic Concept Bottlenecks via Automated Concept Discovery](https://arxiv.org/pdf/2407.14499v2) | [Code](https://github.com/neuroexplicit-saar/discover-then-name) |
+| ECCV | [Explain Via Any Concept: Concept Bottleneck Model with Open Vocabulary Concepts](https://doi.org/10.1007/978-3-031-73016-0_8) | - |
 | ICLR | [Concept Bottleneck Generative Models](https://dblp.uni-trier.de/rec/conf/iclr/IsmailABRC24.html) | [Code](https://github.com/prescient-design/CBGM) |
 | ICLR | [Energy-Based Concept Bottleneck Models: Unifying Prediction, Concept Intervention, and Probabilistic Interpretations](https://doi.org/10.48550/arxiv.2401.14142) | [Code](https://github.com/xmed-lab/ECBM) |
 | ICLR | [Faithful Vision-Language Interpretation Via Concept Bottleneck Models](https://openreview.net/pdf?id=rp0EdI8X4e) | [Code](https://github.com/kaustpradalab/FVLC) |
@@ -130,7 +131,6 @@ The Concept Bottleneck Model (CBM) is an emerging self-explainable architecture 
 | MICCAI | [Learning a Clinically-Relevant Concept Bottleneck for Lesion Detection in Breast Ultrasound](https://arxiv.org/pdf/2407.00267v1) |[Code](https://github.com/hawaii-ai/bus-cbm)|
 | MICCAI | [Mask-Free Neuron Concept Annotation for Interpreting Neural Networks in Medical Domain](https://arxiv.org/pdf/2407.11375v1) |  [Code](https://github.com/ailab-kyunghee/mammi)|
 | MICCAI | [AdaCBM: an Adaptive Concept Bottleneck Model for Explainable and Accurate Diagnosis](https://doi.org/10.48550/arxiv.2105.02410) |  [Code](https://github.com/AIML-MED/AdaCBM)|
-| MICCAI | [Explain Via Any Concept: Concept Bottleneck Model with Open Vocabulary Concepts](https://doi.org/10.1007/978-3-031-73016-0_8) |-|
 | MICCAI | [Integrating Clinical Knowledge into Concept Bottleneck Models](https://doi.org/10.1007/978-3-031-72083-3_23) |[Code](https://github.com/pangwinnie0219/align_concept_cbm)|
 | MedIA | [Interpretable and Intervenable Ultrasonography-Based Machine Learning Models for Pediatric Appendicitis](https://doi.org/10.1016/j.media.2023.103042) |[Code](https://github.com/i6092467/semi-supervised-multiview-cbm)|
 | NeurIPS | [Stochastic Concept Bottleneck Models](https://arxiv.org/abs/2406.19272) | [Code](https://github.com/mvandenhi/scbm) |
