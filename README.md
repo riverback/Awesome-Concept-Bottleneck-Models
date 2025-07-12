@@ -89,6 +89,7 @@ The Concept Bottleneck Model (CBM) is an emerging self-explainable architecture 
 |   ICML   | [DCBM: Data-Efficient Visual Concept Bottleneck Models](https://arxiv.org/abs/2412.11576) |           [Code](https://github.com/KathPra/DCBM)            |
 |   ICML   | [Addressing Concept Mislabeling in Concept Bottleneck Models Through Preference]([arxiv.org/pdf/2504.18026](https://arxiv.org/pdf/2504.18026)) | [Code](https://github.com/Emilianopp/ConceptPreferenceOptimization) |
 | ICML | [Concept-Based Unsupervised Domain Adaptation](https://arxiv.org/pdf/2505.05195) | [Code](https://github.com/xmed-lab/CUDA) |
+| ICML | [Avoiding Leakage Poisoning: Concept Interventions Under Distribution Shifts](https://arxiv.org/pdf/2504.17921) | [Code](https://github.com/mateoespinosa/cem) |
 | IEEE TMI | [Concept-Based Lesion Aware Transformer for Interpretable Retinal Disease Diagnosis](https://ieeexplore.ieee.org/document/10599508) | [Code](https://github.com/Sorades/CLAT) |
 | IEEE TMM | [Leveraging Concise Concepts with Probabilistic Modeling for Interpretable Visual Recognition](https://ieeexplore.ieee.org/document/10948345) |                              -                               |
 | IJCAI | [MVP-CBM:Multi-layer Visual Preference-enhanced Concept Bottleneck Model for Explainable Medical Image Classification](http://arxiv.org/abs/2506.12568) | [Code](https://github.com/wcj6/MVP-CBM) |
