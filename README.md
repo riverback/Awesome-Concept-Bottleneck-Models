@@ -9,7 +9,7 @@ The Concept Bottleneck Model (CBM) is an emerging self-explainable architecture 
 
 (images from IntCEMs, highlighting the interpretability and intervention ability of CBM architectures)
 
-## Papers sorted by research focus
+## Papers Sorted by Research Focus
 
 ### Architecture Improvements
 
@@ -65,7 +65,7 @@ The Concept Bottleneck Model (CBM) is an emerging self-explainable architecture 
 | [Skincon (Fitz sub + DDI annotated)](https://skincon-dataset.github.io/index.html#dataset) | skin diseases classification     | 48             | 2             |
 | [DermaCon-IN](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/W7OUZM) | skin diseases classification     | 47             | 8             |
 
-## Papers sorted by publication year
+## Papers Sorted by Publication Year
 
 ### 2025
 | Publication |    Paper Title     |   Code/Project                                                 |
@@ -75,25 +75,37 @@ The Concept Bottleneck Model (CBM) is an emerging self-explainable architecture 
 | ACL | [Enhancing Interpretable Image Classification Through LLM Agents and Conditional Concept Bottleneck Models](10.48550/arXiv.2506.01334) | -` |
 |   CVPR   | [Interpretable Generative Models through Post-hoc Concept Bottlenecks](https://arxiv.org/pdf/2503.19377v1) | [Code](https://github.com/Trustworthy-ML-Lab/posthoc-generative-cbm) |
 | CVPR | [Attribute-formed Class-specific Concept Space: Endowing Language Bottleneck Model with Better Interpretability and Scalability](http://arxiv.org/abs/2503.20301) | [Code](https://github.com/tiggers23/ALBM) |
+| CVPR | [Language Guided Concept Bottleneck Models for Interpretable Continual Learning](https://arxiv.org/abs/2503.23283) | [Code](https://github.com/FisherCats/CLG-CBM) |
+| CVPR | [Discovering Fine-Grained Visual-Concept Relations by Disentangled Optimal Transport Concept Bottleneck Models](http://arxiv.org/abs/2505.07209) | - |
 |  CVPR W  | [PCBEAR: Pose Concept Bottleneck for Explainable Action Recognition](https://arxiv.org/abs/2504.13140) |                              -                               |
 | ICCV | [Intervening in Black Box: Concept Bottleneck Model for Enhancing Human Neural Network Mutual Understanding](http://arxiv.org/abs/2506.22803) | [Code](https://github.com/XiGuaBo/CBM-HNMU) |
 |   ICLR   | [Counterfactual Concept Bottleneck Models](https://openreview.net/forum?id=w7pMjyjsKN) | [Code](https://github.com/gabriele-dominici/Counterfactual-CBM) |
 |   ICLR   | [Concept Bottleneck Large Language Models](https://openreview.net/forum?id=RC5FPYVQaH) |    [Code](https://github.com/Trustworthy-ML-Lab/CB-LLMs)     |
 |   ICLR   | [CONDA: Adaptive Concept Bottleneck for Foundation Models Under Distribution Shifts](https://iclr.cc/virtual/2025/poster/30736) |         [Code](https://github.com/jihyechoi77/CONDA)         |
 |   ICLR   | [Concept Bottleneck Language Models For Protein Design](https://iclr.cc/virtual/2025/poster/29243) |                              -                               |
+| ICLR W | [Causally Reliable Concept Bottleneck Models](https://arxiv.org/abs/2503.04363) | [Code](https://github.com/gdefe/causally-reliable-cbm) |
+| ICLR W | [Adaptive Test-Time Intervention for Concept Bottleneck Models](https://openreview.net/forum?id=wBygggbUV8) | [Code](https://github.com/mattyshen/adaptiveTTI) |
 |   ICML   | [Editable Concept Bottleneck Models](https://dblp.uni-trier.de/rec/journals/corr/abs-2405-15476.html) |                              -                               |
 |   ICML   | [DCBM: Data-Efficient Visual Concept Bottleneck Models](https://arxiv.org/abs/2412.11576) |           [Code](https://github.com/KathPra/DCBM)            |
 |   ICML   | [Addressing Concept Mislabeling in Concept Bottleneck Models Through Preference]([arxiv.org/pdf/2504.18026](https://arxiv.org/pdf/2504.18026)) | [Code](https://github.com/Emilianopp/ConceptPreferenceOptimization) |
+| ICML | [Concept-Based Unsupervised Domain Adaptation](https://arxiv.org/pdf/2505.05195) | [Code](https://github.com/xmed-lab/CUDA) |
+| IEEE TMI | [Concept-Based Lesion Aware Transformer for Interpretable Retinal Disease Diagnosis](https://ieeexplore.ieee.org/document/10599508) | [Code](https://github.com/Sorades/CLAT) |
 | IEEE TMM | [Leveraging Concise Concepts with Probabilistic Modeling for Interpretable Visual Recognition](https://ieeexplore.ieee.org/document/10948345) |                              -                               |
 | IJCAI | [MVP-CBM:Multi-layer Visual Preference-enhanced Concept Bottleneck Model for Explainable Medical Image Classification](http://arxiv.org/abs/2506.12568) | [Code](https://github.com/wcj6/MVP-CBM) |
 |  MICCAI  | [Learning Concept-Driven Logical Rules for Interpretable and Generalizable Medical Image Classification](https://arxiv.org/abs/2505.14049) |            [Code](https://github.com/obiyoag/crl)            |
 |  MICCAI  | [Training-free Test-time Improvement for Explainable Medical Image Classification](https://arxiv.org/abs/2506.18070) |       [Code](https://github.com/riverback/TF-TTI-XMed)       |
 |   TMLR   | [Selective Concept Bottleneck Models Without Predefined Concepts](https://openreview.net/pdf?id=uuvujfQXZy) |      [Code](https://openreview.net/forum?id=PMO30TLI4l)      |
+| xAI | [V-CEM: Bridging Performance and Intervenability in Concept-based Models](https://arxiv.org/abs/2504.03978) | [Code](https://github.com/francescoTheSantis/Variational-Concept-Embedding-Model) |
 |  Arxiv   | [ConceptCLIP: Towards Trustworthy Medical AI Via Concept-Enhanced Contrastive Langauge-Image Pre-training](https://arxiv.org/abs/2501.15579) |       [Code](https://github.com/JerrryNie/ConceptCLIP)       |
 | Arxiv | [Object Centric Concept Bottlenecks](http://arxiv.org/abs/2505.24492) | - |
 | Arxiv | [Stable Vision Concept Transformers for Medical Diagnosis](http://arxiv.org/abs/2506.05286) | - |
 | Arxiv | [Towards Reasonable Concept Bottleneck Models](http://arxiv.org/abs/2506.05014) | - |
-|             |                                                              |                                                              |
+| Arxiv | [Zero-shot Concept Bottleneck Models](https://arxiv.org/abs/2502.09018) | [Code](https://github.com/yshinya6/zcbm) |
+| Arxiv | [CBVLM: Training-free Explainable Concept-based Large Vision Language Models for Medical Image Classification](https://arxiv.org/abs/2501.12266) | [Code](https://cristianopatricio.github.io/CBVLM/) |
+| Arxiv | [Towards Achieving Concept Completeness for Textual Concept Bottleneck Models](https://arxiv.org/abs/2502.11100) | - |
+| Arxiv | [Deferring Concept Bottleneck Models: Learning to Defer Interventions to Inaccurate Experts](https://arxiv.org/abs/2503.16199) | - |
+| Arxiv | [If Concept Bottlenecks are the Question, are Foundation Models the Answer?](https://arxiv.org/abs/2504.19774v2) | [Code](https://github.com/debryu/CQA) |
+| Arxiv | [DeCoDe: Defer-and-Complement Decision-Making via Decoupled Concept Bottleneck Models](https://doi.org/10.48550/arXiv.2505.19220) | - |
 
 ### 2024
 | Publication |    Paper Title     |   Code/Project                                                 |
@@ -156,6 +168,8 @@ The Concept Bottleneck Model (CBM) is an emerging self-explainable architecture 
 | Arxiv | [Self-eXplainable AI for Medical Image Analysis: A Survey and New Outlooks](https://arxiv.org/abs/2410.02331) | - |
 | Arxiv | [Concept Complement Bottleneck Model for Interpretable Medical Image Diagnosis](https://arxiv.org/abs/2410.15446) | - |
 | Arxiv | [Improving Concept Alignment in Vision-Language Concept Bottleneck Models](https://arxiv.org/pdf/2405.01825) | [Code](https://github.com/NMS05/Improving-Concept-Alignment-in-Vision-Language-Concept-Bottleneck-Models) |
+| Arxiv | [CAT: Concept-level backdoor ATtacks for Concept Bottleneck Models](https://arxiv.org/abs/2410.04823) | [Code](https://github.com/xll0328/CAT_CBM-Backdoor) |
+| Arxiv | [Tree-Based Leakage Inspection and Control in Concept Bottleneck Models](https://arxiv.org/abs/2410.06352) | [Code](https://github.com/ai4ai-lab/mixed-cbm-with-trees) |
 
 
 ### 2023
@@ -167,7 +181,7 @@ The Concept Bottleneck Model (CBM) is an emerging self-explainable architecture 
 | CVPR | [Towards Trustable Skin Cancer Diagnosis via Rewriting Model's Decision](https://arxiv.org/pdf/2303.00885v1) |-|
 |  EMNLP  | [STAIR: Learning Sparse Text and Image Representation in Grounded Tokens](https://arxiv.org/pdf/2301.13081v2) |                              -                               |
 |  EMNLP  | [Cross-Modal Conceptualization in Bottleneck Models](https://doi.org/10.18653/v1/2023.emnlp-main.318) |         [Code](https://github.com/danisalukaev/xcbs)         |
-| ICLR | [LABEL-FREE CONCEPT BOTTLENECK MODELS](https://arxiv.org/pdf/2304.06129) |  [Code](https://github.com/trustworthy-ml-lab/label-free-cbm)|
+| ICLR | [Label-free Concept Bottleneck Models](https://arxiv.org/pdf/2304.06129) |  [Code](https://github.com/trustworthy-ml-lab/label-free-cbm)|
 |  ICLR   | [Post-hoc Concept Bottleneck Models](https://doi.org/10.48550/arxiv.2205.15480) |        [Code](https://github.com/mertyg/post-hoc-cbm)        |
 |  ICML   | [A Closer Look at the Intervention Procedure of Concept Bottleneck Models](https://doi.org/10.48550/arxiv.2302.14260) |  [Code](https://github.com/ssbin4/Closer-Intervention-CBM)   |
 |  ICML   | [Probabilistic Concept Bottleneck Models](https://doi.org/10.48550/arxiv.2306.01574) |         [Code](https://github.com/ejkim47/prob-cbm)          |
