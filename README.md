@@ -10,7 +10,60 @@ The Concept Bottleneck Model (CBM) is an emerging self-explainable architecture 
 (images from IntCEMs, highlighting the interpretability and intervention ability of CBM architectures)
 
 ## Papers sorted by research focus
-TBD
+
+#### Architecture Improvements
+
+**Improving Concept Representations**
+
+
+
+**Improving Intervention Ability**
+
+
+
+#### Finding Concepts (concept discovery, language-guided CBMs, etc.)
+
+**Concept Discovery**
+
+
+
+**Language-guided CBMs**
+
+
+
+#### CBMs for Non-visual Data
+
+**Text**
+
+
+
+**Table**
+
+
+
+**Scientific Data**
+
+
+
+#### CBM Applications
+
+
+
+#### Datasets
+
+**Concept Annotated Datasets**
+
+| Name                                                         | Task                             | N. of concepts | N. of classes |
+| ------------------------------------------------------------ | -------------------------------- | -------------- | ------------- |
+| [CUB](https://worksheets.codalab.org/bundles/0x518829de2aa440c79cd9d75ef6669f27) | birds classification             | 312            | 200           |
+| [AwA2](https://cvml.ista.ac.at/AwA2/)                        | animals classification           | 85             | 50            |
+| [CelebA](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html)   | identities classification        | 40             | 10,177        |
+| [OAI](https://nda.nih.gov/oai)                               | x-ray grading                    | 10             | 4             |
+| [WBCAtt](https://github.com/apple2373/wbcatt)                | white blood cells classification | 31             | 5             |
+| [Fitzpatrick 17k (subset)](https://skincon-dataset.github.io/index.html#dataset) | skin diseases classification     | 48             | 2             |
+| [Diverse Dermatology Images (DDI)](https://skincon-dataset.github.io/index.html#dataset) | skin diseases classification     | 48             | 2             |
+| [Skincon (Fitz sub + DDI annotated)](https://skincon-dataset.github.io/index.html#dataset) | skin diseases classification     | 48             | 2             |
+| [DermaCon-IN](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/W7OUZM) | skin diseases classification     | 47             | 8             |
 
 ## Papers sorted by publication year
 
@@ -19,8 +72,11 @@ TBD
 |:----:|-----------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------:|
 | AAAI | [Explanation Bottleneck Models](https://ojs.aaai.org/index.php/AAAI/article/view/35495) | [Code](https://github.com/yshinya6/xbm) |
 | AAAI | [V2C-CBM: Building Concept Bottlenecks with Vision-to-Concept Tokenizer](https://ojs.aaai.org/index.php/AAAI/article/view/32352) | [Code](https://github.com/riverback/V2C-CBM) |
+| ACL | [Enhancing Interpretable Image Classification Through LLM Agents and Conditional Concept Bottleneck Models](10.48550/arXiv.2506.01334) | -` |
 |   CVPR   | [Interpretable Generative Models through Post-hoc Concept Bottlenecks](https://arxiv.org/pdf/2503.19377v1) | [Code](https://github.com/Trustworthy-ML-Lab/posthoc-generative-cbm) |
+| CVPR | [Attribute-formed Class-specific Concept Space: Endowing Language Bottleneck Model with Better Interpretability and Scalability](http://arxiv.org/abs/2503.20301) | [Code](https://github.com/tiggers23/ALBM) |
 |  CVPR W  | [PCBEAR: Pose Concept Bottleneck for Explainable Action Recognition](https://arxiv.org/abs/2504.13140) |                              -                               |
+| ICCV | [Intervening in Black Box: Concept Bottleneck Model for Enhancing Human Neural Network Mutual Understanding](http://arxiv.org/abs/2506.22803) | [Code](https://github.com/XiGuaBo/CBM-HNMU) |
 |   ICLR   | [Counterfactual Concept Bottleneck Models](https://openreview.net/forum?id=w7pMjyjsKN) | [Code](https://github.com/gabriele-dominici/Counterfactual-CBM) |
 |   ICLR   | [Concept Bottleneck Large Language Models](https://openreview.net/forum?id=RC5FPYVQaH) |    [Code](https://github.com/Trustworthy-ML-Lab/CB-LLMs)     |
 |   ICLR   | [CONDA: Adaptive Concept Bottleneck for Foundation Models Under Distribution Shifts](https://iclr.cc/virtual/2025/poster/30736) |         [Code](https://github.com/jihyechoi77/CONDA)         |
@@ -29,10 +85,15 @@ TBD
 |   ICML   | [DCBM: Data-Efficient Visual Concept Bottleneck Models](https://arxiv.org/abs/2412.11576) |           [Code](https://github.com/KathPra/DCBM)            |
 |   ICML   | [Addressing Concept Mislabeling in Concept Bottleneck Models Through Preference]([arxiv.org/pdf/2504.18026](https://arxiv.org/pdf/2504.18026)) | [Code](https://github.com/Emilianopp/ConceptPreferenceOptimization) |
 | IEEE TMM | [Leveraging Concise Concepts with Probabilistic Modeling for Interpretable Visual Recognition](https://ieeexplore.ieee.org/document/10948345) |                              -                               |
+| IJCAI | [MVP-CBM:Multi-layer Visual Preference-enhanced Concept Bottleneck Model for Explainable Medical Image Classification](http://arxiv.org/abs/2506.12568) | [Code](https://github.com/wcj6/MVP-CBM) |
 |  MICCAI  | [Learning Concept-Driven Logical Rules for Interpretable and Generalizable Medical Image Classification](https://arxiv.org/abs/2505.14049) |            [Code](https://github.com/obiyoag/crl)            |
 |  MICCAI  | [Training-free Test-time Improvement for Explainable Medical Image Classification](https://arxiv.org/abs/2506.18070) |       [Code](https://github.com/riverback/TF-TTI-XMed)       |
 |   TMLR   | [Selective Concept Bottleneck Models Without Predefined Concepts](https://openreview.net/pdf?id=uuvujfQXZy) |      [Code](https://openreview.net/forum?id=PMO30TLI4l)      |
 |  Arxiv   | [ConceptCLIP: Towards Trustworthy Medical AI Via Concept-Enhanced Contrastive Langauge-Image Pre-training](https://arxiv.org/abs/2501.15579) |       [Code](https://github.com/JerrryNie/ConceptCLIP)       |
+| Arxiv | [Object Centric Concept Bottlenecks](http://arxiv.org/abs/2505.24492) | - |
+| Arxiv | [Stable Vision Concept Transformers for Medical Diagnosis](http://arxiv.org/abs/2506.05286) | - |
+| Arxiv | [Towards Reasonable Concept Bottleneck Models](http://arxiv.org/abs/2506.05014) | - |
+|             |                                                              |                                                              |
 
 #### 2024
 | Publication |    Paper Title     |   Code/Project                                                 |
