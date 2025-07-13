@@ -182,6 +182,7 @@ The Concept Bottleneck Model (CBM) is an emerging self-explainable architecture 
 | CVPR | [Towards Trustable Skin Cancer Diagnosis via Rewriting Model's Decision](https://arxiv.org/pdf/2303.00885v1) |-|
 |  EMNLP  | [STAIR: Learning Sparse Text and Image Representation in Grounded Tokens](https://arxiv.org/pdf/2301.13081v2) |                              -                               |
 |  EMNLP  | [Cross-Modal Conceptualization in Bottleneck Models](https://doi.org/10.18653/v1/2023.emnlp-main.318) |         [Code](https://github.com/danisalukaev/xcbs)         |
+| ICCV | [Learning Concise and Descriptive Attributes for Visual Recognition](https://openaccess.thecvf.com/content/ICCV2023/html/Yan_Learning_Concise_and_Descriptive_Attributes_for_Visual_Recognition_ICCV_2023_paper.html) | [Code](https://github.com/wangyu-ustc/LM4CV) |
 | ICLR | [Label-free Concept Bottleneck Models](https://arxiv.org/pdf/2304.06129) |  [Code](https://github.com/trustworthy-ml-lab/label-free-cbm)|
 |  ICLR   | [Post-hoc Concept Bottleneck Models](https://doi.org/10.48550/arxiv.2205.15480) |        [Code](https://github.com/mertyg/post-hoc-cbm)        |
 |  ICML   | [A Closer Look at the Intervention Procedure of Concept Bottleneck Models](https://doi.org/10.48550/arxiv.2302.14260) |  [Code](https://github.com/ssbin4/Closer-Intervention-CBM)   |
@@ -190,6 +191,7 @@ The Concept Bottleneck Model (CBM) is an emerging self-explainable architecture 
 | MICCAI | [Concept Bottleneck with Visual Concept Filtering for Explainable Medical Image Classification](https://doi.org/10.1007/978-3-031-47401-9_22) |-|
 | NeurIPS | [Do Concept Bottleneck Models Respect Localities](https://arxiv.org/abs/2401.01259) |  [Code](https://github.com/naveenr414/Spurious-Concepts)|
 | NeurIPS | [Learning to Receive Help: Intervention-Aware Concept Embedding Models](https://openreview.net/forum?id=4ImZxqmT1K) | [Code](https://github.com/mateoespinosa/cem) |
+| NMI | [From attribution maps to human-understandable explanations through Concept Relevance Propagation](https://www.nature.com/articles/s42256-023-00711-8) | [Code](https://github.com/rachtibat/zennit-crp) |
 | Arxiv | [Robust and interpretable medical image classifiers via concept bottleneck models](https://doi.org/10.48550/arxiv.2310.03182) |-|
 
 ### 2022
@@ -205,7 +207,6 @@ The Concept Bottleneck Model (CBM) is an emerging self-explainable architecture 
 |:----:|-----------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------:|
 | ICML | [Meaningfully Debugging Model Mistakes Using Conceptual Counterfactual Explanations](https://doi.org/10.48550/arxiv.2106.12723) |  [Code](https://github.com/mertyg/debug-mistakes-cce)|
 | NMI | [A case-based interpretable deep learning model for classification of mass lesions in digital mammography](https://arxiv.org/pdf/2103.12308) |[Code](https://github.com/alinajadebarnett/iaiabl)|
-| Arxiv | [Partially Interpretable Estimators (PIE): Black-Box-Refined Interpretable Machine Learning](https://doi.org/10.48550/arxiv.2105.02410) |-|
 
 ### 2020
 | Publication |    Paper Title     |   Code/Project                                                 |
