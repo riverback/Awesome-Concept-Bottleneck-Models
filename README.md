@@ -72,7 +72,7 @@ The Concept Bottleneck Model (CBM) is an emerging self-explainable architecture 
 |:----:|-----------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------:|
 | AAAI | [Explanation Bottleneck Models](https://ojs.aaai.org/index.php/AAAI/article/view/35495) | [Code](https://github.com/yshinya6/xbm) |
 | AAAI | [V2C-CBM: Building Concept Bottlenecks with Vision-to-Concept Tokenizer](https://ojs.aaai.org/index.php/AAAI/article/view/32352) | [Code](https://github.com/riverback/V2C-CBM) |
-| ACL | [Enhancing Interpretable Image Classification Through LLM Agents and Conditional Concept Bottleneck Models](10.48550/arXiv.2506.01334) | -` |
+| ACL | [Enhancing Interpretable Image Classification Through LLM Agents and Conditional Concept Bottleneck Models](10.48550/arXiv.2506.01334) | - |
 |   CVPR   | [Interpretable Generative Models through Post-hoc Concept Bottlenecks](https://arxiv.org/pdf/2503.19377v1) | [Code](https://github.com/Trustworthy-ML-Lab/posthoc-generative-cbm) |
 | CVPR | [Attribute-formed Class-specific Concept Space: Endowing Language Bottleneck Model with Better Interpretability and Scalability](http://arxiv.org/abs/2503.20301) | [Code](https://github.com/tiggers23/ALBM) |
 | CVPR | [Language Guided Concept Bottleneck Models for Interpretable Continual Learning](https://arxiv.org/abs/2503.23283) | [Code](https://github.com/FisherCats/CLG-CBM) |
@@ -199,12 +199,14 @@ The Concept Bottleneck Model (CBM) is an emerging self-explainable architecture 
 |:----:|-----------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------:|
 | ICCV | [Explaining in Style: Training a GAN to Explain a Classifier in StyleSpace](https://doi.org/10.5281/zenodo.6574709) |-|
 | ICLR | [CLIP-Dissect: Automatic Description of Neuron Representations in Deep Vision Networks](https://arxiv.org/abs/2204.10965) |  [Code](https://github.com/trustworthy-ml-lab/clip-dissect)|
-| NeurIPS | [Concept Embedding Models](https://arxiv.org/abs/2209.09056) |  [Code](https://github.com/mateoespinosa/cem)|
+| IEEE Access | [Concept Bottleneck Model With Additional Unsupervised Concepts](https://ieeexplore.ieee.org/abstract/document/9758745) | - |
+| NeurIPS | [Concept Embedding Models: Beyond the Accuracy-Explainability Trade-Off](https://arxiv.org/abs/2209.09056) |  [Code](https://github.com/mateoespinosa/cem)|
 | NeurIPS | [Addressing Leakage in Concept Bottleneck Models](https://proceedings.neurips.cc/paper_files/paper/2022/file/944ecf65a46feb578a43abfd5cddd960-Paper-Conference.pdf) | [Code](https://github.com/dtak/addressing-leakage) |
 
 ### 2021
 | Publication |    Paper Title     |   Code/Project                                                 |
 |:----:|-----------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------:|
+| ICLR W | [Do Concept Bottleneck Models Learn as Intended?](https://arxiv.org/abs/2105.04289) | - |
 | ICML | [Meaningfully Debugging Model Mistakes Using Conceptual Counterfactual Explanations](https://doi.org/10.48550/arxiv.2106.12723) |  [Code](https://github.com/mertyg/debug-mistakes-cce)|
 | NMI | [A case-based interpretable deep learning model for classification of mass lesions in digital mammography](https://arxiv.org/pdf/2103.12308) |[Code](https://github.com/alinajadebarnett/iaiabl)|
 
