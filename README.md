@@ -15,7 +15,15 @@ The Concept Bottleneck Model (CBM) is an emerging self-explainable architecture 
 
 **Improving Concept Representations**
 
+The original Concept Bottleneck Model maps each concept to a single (probabilistic) value to construct the concept bottleneck layer, followed by a linear layer that predicts image-level class labels based on these concept values. However, the semantics of individual concepts, the relationships and hierarchies among different concepts, and the dependencies between concepts and class labels are inherently complex. Therefore, to address the need for richer, more expressive concept representations and to model the intricate concept–concept and concept–class relationships, many studies have proposed improvements to the representation methods used in the concept bottleneck layer.
 
+| Method                                                       | Publication  | Concept Representation                        | Highlight                                                    | Code/Project                                 |
+| ------------------------------------------------------------ | ------------ | --------------------------------------------- | ------------------------------------------------------------ | -------------------------------------------- |
+| [Concept Embedding Models (CEMs)](https://arxiv.org/abs/2209.09056) | NeurIPS 2022 | high-dimensional embeddings                   | representing each concept as a supervised high-dimensional embeddings to preserve high performance and interpretability under incomplete concept annotations | [Code](https://github.com/mateoespinosa/cem) |
+| [Probabilistic Concept Bottleneck Models (PCBMs)](https://doi.org/10.48550/arxiv.2306.01574) | ICML 2023    | probabilistic embeddings                      | leveraging probabilistic concept embeddings to model uncertainty in concept predictions and provide more reliable explanations with uncertainty | [Code](https://github.com/ejkim47/prob-cbm)  |
+| [Energy-based Concept Bottleneck Models (ECBMs)](https://doi.org/10.48550/arxiv.2401.14142) | ICLR 2024    | high-dimensional embeddings + energy networks | using a set of networks to define the joint energy of the (input, concept, class) triplet, therefore providing a unified way for prediction, concept intervention, and probabilistic explanation via minimizing energy. | [Code](https://github.com/xmed-lab/ECBM)     |
+| [Logic-enhanced CBMs](https://openreview.net/forum?id=6e1K5TAjhh) | ICML W 2024  | augmented with propositional logic rules      | using the propositional logic derived from the concepts to model the relationships between concepts | -                                            |
+| [EQ-CBM](https://openaccess.thecvf.com/content/ACCV2024/papers/Kim_EQ-CBM_A_Probabilistic_Concept_Bottleneck_with_Energy-based_Models_and_Quantized_ACCV_2024_paper.pdf) | ACCV 2024    | quantized probabilistic embeddings            | enhances CBMs through probabilistic concept encoding using energy-based models with quantized concept activation vectors to capture uncertainties | -                                            |
 
 **Improving Intervention Ability**
 
@@ -113,6 +121,7 @@ The Concept Bottleneck Model (CBM) is an emerging self-explainable architecture 
 |:----:|-----------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------:|
 | AAAI | [On the Concept Trustworthiness in Concept Bottleneck Models](https://doi.org/10.1609/aaai.v38i19.30109) | [Code](https://github.com/hqhQAQ/ProtoCBM) |
 | AAAI | [Sparsity-guided holistic explanation for llms with interpretable inference-time intervention](https://ojs.aaai.org/index.php/AAAI/article/download/30160/32058) | [Code](https://github.com/zhen-tan-dmml/sparsecbm) |
+| ACCV | [EQ-CBM: A Probabilistic Concept Bottleneck with Energy-based Models and Quantized Vectors](https://openaccess.thecvf.com/content/ACCV2024/html/Kim_EQ-CBM_A_Probabilistic_Concept_Bottleneck_with_Energy-based_Models_and_Quantized_ACCV_2024_paper.html) | - |
 | CVPR | [Embracing Unimodal Aleatoric Uncertainty for Robust Multimodal Fusion](https://doi.org/10.1109/cvpr52733.2024.02538) | - |
 | CVPR | [LVLM-Interpret: An Interpretability Tool for Large Vision-Language Models](https://arxiv.org/pdf/2404.03118) | [Code](https://github.com/IntelLabs/lvlm-interpret) |
 | CVPR | [Incremental Residual Concept Bottleneck Models](https://doi.org/10.1109/cvpr52733.2024.01049) |  [Code](https://github.com/helloscm/res-cbm)|
@@ -124,6 +133,7 @@ The Concept Bottleneck Model (CBM) is an emerging self-explainable architecture 
 | ICLR | [Concept Bottleneck Generative Models](https://dblp.uni-trier.de/rec/conf/iclr/IsmailABRC24.html) |  |
 | ICML | [Post-hoc Part-prototype Networks](https://arxiv.org/abs/2406.03421) | - |
 | ICML W | [XCoOp: Explainable Prompt Learning for Computer-Aided Diagnosis via Concept-guided Context Optimization](https://arxiv.org/pdf/2403.09410v1) | - |
+| ICML W | [Enhancing concept-based learning with logic](https://openreview.net/forum?id=6e1K5TAjhh) | - |
 | IEEE TPAMI | [The Decoupling Concept Bottleneck Model](https://ieeexplore.ieee.org/document/10740789) | [Code](https://github.com/deepopo/DCBM) |
 | JBHI | [Guest Editorial: Trustworthy Machine Learning for Health Informatics](https://ieeexplore.ieee.org/iel8/6221020/10745910/10745914.pdf) | - |
 | MICCAI | [Concept-Attention Whitening for Interpretable Skin Lesion Diagnosis](https://arxiv.org/pdf/2404.05997v2) |[Code](https://github.com/CAWframework/Concept-Attention-Whitening-for-Interpretable-Skin-Lesion-Diagnosis-Reproduction)|
