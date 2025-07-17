@@ -1,5 +1,5 @@
 # Awesome Concept Bottleneck Models
-**Work in progress**: we have compiled and summarized relevant papers in this field and are continuing to improve the categorization and organization of the collection to help newcomers quickly understand the area. Feel free to suggest improvements or add new papers via a pull request.
+**Work in progress**: we have compiled and summarized relevant papers in this field by year and are continuing to improve the categorization and organization of the collection to help newcomers quickly understand the area. Feel free to suggest improvements or add new papers via a pull request.
 
 ## Introduction
 
@@ -11,7 +11,7 @@ The Concept Bottleneck Model (CBM) is an emerging self-explainable architecture 
 
 ## Papers Sorted by Research Focus
 
-### Architecture Improvements
+### Architecture / Optimization Improvements
 
 **Improving Concept Representations**
 
@@ -25,17 +25,30 @@ The original Concept Bottleneck Model maps each concept to a single (probabilist
 | [Logic-enhanced CBMs](https://openreview.net/forum?id=6e1K5TAjhh) | ICML W 2024  | augmented with propositional logic rules      | using the propositional logic derived from the concepts to model the relationships between concepts | -                                            |
 | [EQ-CBM](https://openaccess.thecvf.com/content/ACCV2024/papers/Kim_EQ-CBM_A_Probabilistic_Concept_Bottleneck_with_Energy-based_Models_and_Quantized_ACCV_2024_paper.pdf) | ACCV 2024    | quantized probabilistic embeddings            | enhances CBMs through probabilistic concept encoding using energy-based models with quantized concept activation vectors to capture uncertainties | -                                            |
 
-**Improving Intervention Ability**
+**Improving Intervention Ability / Interactivity**
+
+| Method | Publication | Highlight | Code/Project |
+| ------ | ----------- | --------- | ------------ |
+|        |             |           |              |
+|        |             |           |              |
+|        |             |           |              |
 
 
 
 ### Finding Concepts (concept discovery, language-guided CBMs, etc.)
 
-**Concept Discovery**
-
-
-
-**Language-guided CBMs**
+| Method                                                       | Publication | Concept Source                        | Code/Project                                                 |
+| ------------------------------------------------------------ | ----------- | ------------------------------------- | ------------------------------------------------------------ |
+| [LF-CBMs](https://arxiv.org/pdf/2304.06129)                  | ICLR 2023   | LLM (GPT-3.5)                         | [Code](https://github.com/trustworthy-ml-lab/label-free-cbm) |
+| [Post-hoc CBMs](https://doi.org/10.48550/arxiv.2205.15480)   | ICLR 2023   | LLM (GPT-3.5) / TCAV                  | [Code](https://github.com/mertyg/post-hoc-cbm)               |
+| [LaBo](https://openaccess.thecvf.com/content/CVPR2023/papers/Yang_Language_in_a_Bottle_Language_Model_Guided_Concept_Bottlenecks_for_CVPR_2023_paper.pdf) | CVPR 2023   | LLM (GPT-3.5)                         | [Code](https://github.com/yueyang1996/labo)                  |
+| [BotCL](https://arxiv.org/pdf/2304.10131v1)                  | CVPR 2023   | Concept Prototypes (images + heatmap) | [Code](https://github.com/wbw520/BotCL)                      |
+| [LM4CV](https://openaccess.thecvf.com/content/ICCV2023/html/Yan_Learning_Concise_and_Descriptive_Attributes_for_Visual_Recognition_ICCV_2023_paper.html) | ICCV 2023   | LLM (GPT-3.5)                         | [Code](https://github.com/wangyu-ustc/LM4CV)                 |
+| [DN-CBMs](https://arxiv.org/pdf/2407.14499v2)                | ECCV 2024   | Sparse Auto Encoder + Words           | [Code](https://github.com/neuroexplicit-saar/discover-then-name) |
+| [XBMs](https://ojs.aaai.org/index.php/AAAI/article/view/35495) | AAAI 2025   | MLLM (LLaVA)                          | [Code](https://github.com/yshinya6/xbm)                      |
+| [V2C-CBM](https://ojs.aaai.org/index.php/AAAI/article/view/32352) | AAAI 2025   | VLM (CLIP) + Words                    | [Code](https://github.com/riverback/V2C-CBM)                 |
+|                                                              | CVPR 2025   |                                       |                                                              |
+|                                                              | ICML 2025   |                                       |                                                              |
 
 
 
@@ -98,6 +111,7 @@ The original Concept Bottleneck Model maps each concept to a single (probabilist
 |   ICML   | [Addressing Concept Mislabeling in Concept Bottleneck Models Through Preference]([arxiv.org/pdf/2504.18026](https://arxiv.org/pdf/2504.18026)) | [Code](https://github.com/Emilianopp/ConceptPreferenceOptimization) |
 | ICML | [Concept-Based Unsupervised Domain Adaptation](https://arxiv.org/pdf/2505.05195) | [Code](https://github.com/xmed-lab/CUDA) |
 | ICML | [Avoiding Leakage Poisoning: Concept Interventions Under Distribution Shifts](https://arxiv.org/pdf/2504.17921) | [Code](https://github.com/mateoespinosa/cem) |
+| ICML W | [Interpretable Reward Modeling with Active Concept Bottlenecks](https://arxiv.org/abs/2507.04695) | [Code](https://github.com/sonialagunac/cb-rm-workshop) |
 | IEEE TMI | [Concept-Based Lesion Aware Transformer for Interpretable Retinal Disease Diagnosis](https://ieeexplore.ieee.org/document/10599508) | [Code](https://github.com/Sorades/CLAT) |
 | IEEE TMM | [Leveraging Concise Concepts with Probabilistic Modeling for Interpretable Visual Recognition](https://ieeexplore.ieee.org/document/10948345) |                              -                               |
 | IJCAI | [MVP-CBM:Multi-layer Visual Preference-enhanced Concept Bottleneck Model for Explainable Medical Image Classification](http://arxiv.org/abs/2506.12568) | [Code](https://github.com/wcj6/MVP-CBM) |
@@ -115,6 +129,7 @@ The original Concept Bottleneck Model maps each concept to a single (probabilist
 | Arxiv | [Deferring Concept Bottleneck Models: Learning to Defer Interventions to Inaccurate Experts](https://arxiv.org/abs/2503.16199) | - |
 | Arxiv | [If Concept Bottlenecks are the Question, are Foundation Models the Answer?](https://arxiv.org/abs/2504.19774v2) | [Code](https://github.com/debryu/CQA) |
 | Arxiv | [DeCoDe: Defer-and-Complement Decision-Making via Decoupled Concept Bottleneck Models](https://doi.org/10.48550/arXiv.2505.19220) | - |
+| Arxiv | [CoCo-Bot: Energy-based Composable Concept Bottlenecks for Interpretable Generative Models](https://arxiv.org/abs/2507.08334) | - |
 
 ### 2024
 | Publication |    Paper Title     |   Code/Project                                                 |
