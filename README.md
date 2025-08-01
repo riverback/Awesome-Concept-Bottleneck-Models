@@ -106,6 +106,7 @@ The original Concept Bottleneck Model maps each concept to a single (probabilist
 | CVPR | [Language Guided Concept Bottleneck Models for Interpretable Continual Learning](https://arxiv.org/abs/2503.23283) | [Code](https://github.com/FisherCats/CLG-CBM) |
 | CVPR | [Discovering Fine-Grained Visual-Concept Relations by Disentangled Optimal Transport Concept Bottleneck Models](http://arxiv.org/abs/2505.07209) | - |
 |  CVPR W  | [PCBEAR: Pose Concept Bottleneck for Explainable Action Recognition](https://arxiv.org/abs/2504.13140) |                              -                               |
+| ECML-PKDD | [Stable Vision Concept Transformers for Medical Diagnosis](http://arxiv.org/abs/2506.05286) | - |
 | ICCV | [Intervening in Black Box: Concept Bottleneck Model for Enhancing Human Neural Network Mutual Understanding](http://arxiv.org/abs/2506.22803) | [Code](https://github.com/XiGuaBo/CBM-HNMU) |
 | ICCV | [SUB: Benchmarking CBM Generalization via Synthetic Attribute Substitutions](https://arxiv.org/pdf/2507.23784) | [Code](https://github.com/ExplainableML/sub) |
 |   ICLR   | [Counterfactual Concept Bottleneck Models](https://openreview.net/forum?id=w7pMjyjsKN) | [Code](https://github.com/gabriele-dominici/Counterfactual-CBM) |
@@ -130,7 +131,6 @@ The original Concept Bottleneck Model maps each concept to a single (probabilist
 | xAI | [V-CEM: Bridging Performance and Intervenability in Concept-based Models](https://arxiv.org/abs/2504.03978) | [Code](https://github.com/francescoTheSantis/Variational-Concept-Embedding-Model) |
 |  Arxiv   | [ConceptCLIP: Towards Trustworthy Medical AI Via Concept-Enhanced Contrastive Langauge-Image Pre-training](https://arxiv.org/abs/2501.15579) |       [Code](https://github.com/JerrryNie/ConceptCLIP)       |
 | Arxiv | [Object Centric Concept Bottlenecks](http://arxiv.org/abs/2505.24492) | - |
-| Arxiv | [Stable Vision Concept Transformers for Medical Diagnosis](http://arxiv.org/abs/2506.05286) | - |
 | Arxiv | [Towards Reasonable Concept Bottleneck Models](http://arxiv.org/abs/2506.05014) | - |
 | Arxiv | [Zero-shot Concept Bottleneck Models](https://arxiv.org/abs/2502.09018) | [Code](https://github.com/yshinya6/zcbm) |
 | Arxiv | [CBVLM: Training-free Explainable Concept-based Large Vision Language Models for Medical Image Classification](https://arxiv.org/abs/2501.12266) | [Code](https://cristianopatricio.github.io/CBVLM/) |
