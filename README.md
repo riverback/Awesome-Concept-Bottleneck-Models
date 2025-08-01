@@ -37,18 +37,24 @@ The original Concept Bottleneck Model maps each concept to a single (probabilist
 
 ### Finding Concepts (concept discovery, language-guided CBMs, etc.)
 
-| Method                                                       | Publication | Concept Source                        | Code/Project                                                 |
-| ------------------------------------------------------------ | ----------- | ------------------------------------- | ------------------------------------------------------------ |
-| [LF-CBMs](https://arxiv.org/pdf/2304.06129)                  | ICLR 2023   | LLM (GPT-3.5)                         | [Code](https://github.com/trustworthy-ml-lab/label-free-cbm) |
-| [Post-hoc CBMs](https://doi.org/10.48550/arxiv.2205.15480)   | ICLR 2023   | LLM (GPT-3.5) / TCAV                  | [Code](https://github.com/mertyg/post-hoc-cbm)               |
-| [LaBo](https://openaccess.thecvf.com/content/CVPR2023/papers/Yang_Language_in_a_Bottle_Language_Model_Guided_Concept_Bottlenecks_for_CVPR_2023_paper.pdf) | CVPR 2023   | LLM (GPT-3.5)                         | [Code](https://github.com/yueyang1996/labo)                  |
-| [BotCL](https://arxiv.org/pdf/2304.10131v1)                  | CVPR 2023   | Concept Prototypes (images + heatmap) | [Code](https://github.com/wbw520/BotCL)                      |
-| [LM4CV](https://openaccess.thecvf.com/content/ICCV2023/html/Yan_Learning_Concise_and_Descriptive_Attributes_for_Visual_Recognition_ICCV_2023_paper.html) | ICCV 2023   | LLM (GPT-3.5)                         | [Code](https://github.com/wangyu-ustc/LM4CV)                 |
-| [DN-CBMs](https://arxiv.org/pdf/2407.14499v2)                | ECCV 2024   | Sparse Auto Encoder + Words           | [Code](https://github.com/neuroexplicit-saar/discover-then-name) |
-| [XBMs](https://ojs.aaai.org/index.php/AAAI/article/view/35495) | AAAI 2025   | MLLM (LLaVA)                          | [Code](https://github.com/yshinya6/xbm)                      |
-| [V2C-CBM](https://ojs.aaai.org/index.php/AAAI/article/view/32352) | AAAI 2025   | VLM (CLIP) + Words                    | [Code](https://github.com/riverback/V2C-CBM)                 |
-|                                                              | CVPR 2025   |                                       |                                                              |
-|                                                              | ICML 2025   |                                       |                                                              |
+| Method                                                       | Publication           | Concept Source                        | Code/Project                                                 |
+| ------------------------------------------------------------ | --------------------- | ------------------------------------- | ------------------------------------------------------------ |
+| [LF-CBMs](https://arxiv.org/pdf/2304.06129)                  | ICLR 2023             | LLM                                   | [Code](https://github.com/trustworthy-ml-lab/label-free-cbm) |
+| [Post-hoc CBMs](https://doi.org/10.48550/arxiv.2205.15480)   | ICLR 2023             | LLM / TCAV                            | [Code](https://github.com/mertyg/post-hoc-cbm)               |
+| [LaBo](https://openaccess.thecvf.com/content/CVPR2023/papers/Yang_Language_in_a_Bottle_Language_Model_Guided_Concept_Bottlenecks_for_CVPR_2023_paper.pdf) | CVPR 2023             | LLM                                   | [Code](https://github.com/yueyang1996/labo)                  |
+| [BotCL](https://arxiv.org/pdf/2304.10131v1)                  | CVPR 2023             | Concept Prototypes (images + heatmap) | [Code](https://github.com/wbw520/BotCL)                      |
+| [LM4CV](https://openaccess.thecvf.com/content/ICCV2023/html/Yan_Learning_Concise_and_Descriptive_Attributes_for_Visual_Recognition_ICCV_2023_paper.html) | ICCV 2023             | LLM                                   | [Code](https://github.com/wangyu-ustc/LM4CV)                 |
+| [CDMs](https://openaccess.thecvf.com/content/ICCV2023W/CLVL/html/Panousis_Sparse_Linear_Concept_Discovery_Models_ICCVW_2023_paper.html) | ICCV 2023 Worshop     | LLM + VLMs                            | [Code](https://github.com/konpanousis/ConceptDiscoveryModels) |
+| [Res-CBM](http://arxiv.org/abs/2404.08978)                   | CVPR 2024             | LLM + Visual genome                   | [Code](https://github.com/HelloSCM/ Res-CBM)                 |
+| [DN-CBMs](https://arxiv.org/pdf/2407.14499v2)                | ECCV 2024             | Sparse Auto Encoder + Words           | [Code](https://github.com/neuroexplicit-saar/discover-then-name) |
+| [CF-CBMs](https://proceedings.neurips.cc/paper_files/paper/2024/hash/bdeab378efe6eb289714e2a5abc6ed42-Abstract-Conference.html) | NeurIPS 2024          | LLM + VLMs                            | [Code](https://github.com/konpanousis/Coarse-To-Fine-CBMs)   |
+| [VLG-CBM]()                                                  | NeurIPS 2024          | LLM + Object Detectors                | [Code](https://github.com/Trustworthy-ML-Lab/VLG-CBM)        |
+| [BC-LLM](https://arxiv.org/abs/2410.15555)                   | NeurIPS 2024 Workshop | LLM + Bayesian search framework       | [Code](https://github.com/jjfeng/bc-llm)                     |
+| [CCBM](https://arxiv.org/abs/2410.15446)                     | Arxiv 2024            | Heatmaps                              | -                                                            |
+| [CCPM](https://ieeexplore.ieee.org/abstract/document/10948345) | IEEE TMM              | LLM, learnable                        | -                                                            |
+| [XBMs](https://ojs.aaai.org/index.php/AAAI/article/view/35495) | AAAI 2025             | MLLM (LLaVA)                          | [Code](https://github.com/yshinya6/xbm)                      |
+| [V2C-CBM](https://ojs.aaai.org/index.php/AAAI/article/view/32352) | AAAI 2025             | VLM (CLIP) + Common words             | [Code](https://github.com/riverback/V2C-CBM)                 |
+| [UBMs](https://openreview.net/forum?id=PMO30TLI4l)           | TMLR 2025             | Concept discovery (image patch)       | [Code](https://openreview.net/forum?id=PMO30TLI4l)           |
 
 
 
@@ -74,17 +80,18 @@ The original Concept Bottleneck Model maps each concept to a single (probabilist
 
 **Concept Annotated Datasets**
 
-| Name                                                         | Task                             | N. of concepts | N. of classes |
-| ------------------------------------------------------------ | -------------------------------- | -------------- | ------------- |
-| [CUB](https://worksheets.codalab.org/bundles/0x518829de2aa440c79cd9d75ef6669f27) | birds classification             | 312            | 200           |
-| [AwA2](https://cvml.ista.ac.at/AwA2/)                        | animals classification           | 85             | 50            |
-| [CelebA](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html)   | identities classification        | 40             | 10,177        |
-| [OAI](https://nda.nih.gov/oai)                               | x-ray grading                    | 10             | 4             |
-| [WBCAtt](https://github.com/apple2373/wbcatt)                | white blood cells classification | 31             | 5             |
-| [Fitzpatrick 17k (subset)](https://skincon-dataset.github.io/index.html#dataset) | skin diseases classification     | 48             | 2             |
-| [Diverse Dermatology Images (DDI)](https://skincon-dataset.github.io/index.html#dataset) | skin diseases classification     | 48             | 2             |
-| [Skincon (Fitz sub + DDI annotated)](https://skincon-dataset.github.io/index.html#dataset) | skin diseases classification     | 48             | 2             |
-| [DermaCon-IN](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/W7OUZM) | skin diseases classification     | 47             | 8             |
+| Name                                                         | Task                              | N. of concepts | N. of classes |
+| ------------------------------------------------------------ | --------------------------------- | -------------- | ------------- |
+| [CUB](https://worksheets.codalab.org/bundles/0x518829de2aa440c79cd9d75ef6669f27) | birds classification              | 312            | 200           |
+| [AwA2](https://cvml.ista.ac.at/AwA2/)                        | animals classification            | 85             | 50            |
+| [CelebA](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html)   | identities classification         | 6              | 1,000         |
+| [OAI](https://nda.nih.gov/oai)                               | x-ray grading                     | 10             | 4             |
+| [WBCAtt](https://github.com/apple2373/wbcatt)                | white blood cells classification  | 31             | 5             |
+| [Fitzpatrick 17k (subset)](https://skincon-dataset.github.io/index.html#dataset) | skin diseases classification      | 48             | 2             |
+| [Diverse Dermatology Images (DDI)](https://skincon-dataset.github.io/index.html#dataset) | skin diseases classification      | 48             | 2             |
+| [Skincon (Fitz sub + DDI annotated)](https://skincon-dataset.github.io/index.html#dataset) | skin diseases classification      | 48             | 2             |
+| [DermaCon-IN](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/W7OUZM) | skin diseases classification      | 47             | 8             |
+| [ Substitutions on CUB (SUB)](http://huggingface.co/datasets/Jessica-bader/SUB) | **synthetic** bird classification | 312            | 200           |
 
 ## Papers Sorted by Publication Year
 
@@ -100,6 +107,7 @@ The original Concept Bottleneck Model maps each concept to a single (probabilist
 | CVPR | [Discovering Fine-Grained Visual-Concept Relations by Disentangled Optimal Transport Concept Bottleneck Models](http://arxiv.org/abs/2505.07209) | - |
 |  CVPR W  | [PCBEAR: Pose Concept Bottleneck for Explainable Action Recognition](https://arxiv.org/abs/2504.13140) |                              -                               |
 | ICCV | [Intervening in Black Box: Concept Bottleneck Model for Enhancing Human Neural Network Mutual Understanding](http://arxiv.org/abs/2506.22803) | [Code](https://github.com/XiGuaBo/CBM-HNMU) |
+| ICCV | [SUB: Benchmarking CBM Generalization via Synthetic Attribute Substitutions](https://arxiv.org/pdf/2507.23784) | [Code](https://github.com/ExplainableML/sub) |
 |   ICLR   | [Counterfactual Concept Bottleneck Models](https://openreview.net/forum?id=w7pMjyjsKN) | [Code](https://github.com/gabriele-dominici/Counterfactual-CBM) |
 |   ICLR   | [Concept Bottleneck Large Language Models](https://openreview.net/forum?id=RC5FPYVQaH) |    [Code](https://github.com/Trustworthy-ML-Lab/CB-LLMs)     |
 |   ICLR   | [CONDA: Adaptive Concept Bottleneck for Foundation Models Under Distribution Shifts](https://iclr.cc/virtual/2025/poster/30736) |         [Code](https://github.com/jihyechoi77/CONDA)         |
@@ -108,12 +116,13 @@ The original Concept Bottleneck Model maps each concept to a single (probabilist
 | ICLR W | [Adaptive Test-Time Intervention for Concept Bottleneck Models](https://openreview.net/forum?id=wBygggbUV8) | [Code](https://github.com/mattyshen/adaptiveTTI) |
 |   ICML   | [Editable Concept Bottleneck Models](https://dblp.uni-trier.de/rec/journals/corr/abs-2405-15476.html) |                              -                               |
 |   ICML   | [DCBM: Data-Efficient Visual Concept Bottleneck Models](https://arxiv.org/abs/2412.11576) |           [Code](https://github.com/KathPra/DCBM)            |
-|   ICML   | [Addressing Concept Mislabeling in Concept Bottleneck Models Through Preference]([arxiv.org/pdf/2504.18026](https://arxiv.org/pdf/2504.18026)) | [Code](https://github.com/Emilianopp/ConceptPreferenceOptimization) |
+|   ICML   | [Addressing Concept Mislabeling in Concept Bottleneck Models Through Preference Optimization](https://arxiv.org/pdf/2504.18026) | [Code](https://github.com/Emilianopp/ConceptPreferenceOptimization) |
 | ICML | [Concept-Based Unsupervised Domain Adaptation](https://arxiv.org/pdf/2505.05195) | [Code](https://github.com/xmed-lab/CUDA) |
 | ICML | [Avoiding Leakage Poisoning: Concept Interventions Under Distribution Shifts](https://arxiv.org/pdf/2504.17921) | [Code](https://github.com/mateoespinosa/cem) |
 | ICML W | [Interpretable Reward Modeling with Active Concept Bottlenecks](https://arxiv.org/abs/2507.04695) | [Code](https://github.com/sonialagunac/cb-rm-workshop) |
 | IEEE TMI | [Concept-Based Lesion Aware Transformer for Interpretable Retinal Disease Diagnosis](https://ieeexplore.ieee.org/document/10599508) | [Code](https://github.com/Sorades/CLAT) |
 | IEEE TMM | [Leveraging Concise Concepts with Probabilistic Modeling for Interpretable Visual Recognition](https://ieeexplore.ieee.org/document/10948345) |                              -                               |
+| IEEE CCSSTA | [Concept Learning for Cooperative Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2507.20143) |  |
 | IJCAI | [MVP-CBM:Multi-layer Visual Preference-enhanced Concept Bottleneck Model for Explainable Medical Image Classification](http://arxiv.org/abs/2506.12568) | [Code](https://github.com/wcj6/MVP-CBM) |
 |  MICCAI  | [Learning Concept-Driven Logical Rules for Interpretable and Generalizable Medical Image Classification](https://arxiv.org/abs/2505.14049) |            [Code](https://github.com/obiyoag/crl)            |
 |  MICCAI  | [Training-free Test-time Improvement for Explainable Medical Image Classification](https://arxiv.org/abs/2506.18070) |       [Code](https://github.com/riverback/TF-TTI-XMed)       |
@@ -130,6 +139,8 @@ The original Concept Bottleneck Model maps each concept to a single (probabilist
 | Arxiv | [If Concept Bottlenecks are the Question, are Foundation Models the Answer?](https://arxiv.org/abs/2504.19774v2) | [Code](https://github.com/debryu/CQA) |
 | Arxiv | [DeCoDe: Defer-and-Complement Decision-Making via Decoupled Concept Bottleneck Models](https://doi.org/10.48550/arXiv.2505.19220) | - |
 | Arxiv | [CoCo-Bot: Energy-based Composable Concept Bottlenecks for Interpretable Generative Models](https://arxiv.org/abs/2507.08334) | - |
+| Arxiv | [FHSTP@ EXIST 2025 Benchmark: Sexism Detection with Transparent Speech Concept Bottleneck Models](https://arxiv.org/abs/2507.20924) | - |
+| Arxiv | [A Concept-based approach to Voice Disorder Detection](https://arxiv.org/abs/2507.17799) | - |
 
 ### 2024
 | Publication |    Paper Title     |   Code/Project                                                 |
