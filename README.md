@@ -11,7 +11,7 @@ The Concept Bottleneck Model (CBM) is an emerging self-explainable architecture 
 
 ## Papers Sorted by Research Focus
 
-### Architecture / Optimization Improvements
+### Architecture Improvements
 
 **Improving Concept Representations**
 
@@ -91,7 +91,7 @@ The original Concept Bottleneck Model maps each concept to a single (probabilist
 | [Diverse Dermatology Images (DDI)](https://skincon-dataset.github.io/index.html#dataset) | skin diseases classification      | 48             | 2             |
 | [Skincon (Fitz sub + DDI annotated)](https://skincon-dataset.github.io/index.html#dataset) | skin diseases classification      | 48             | 2             |
 | [DermaCon-IN](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/W7OUZM) | skin diseases classification      | 47             | 8             |
-| [ Substitutions on CUB (SUB)](http://huggingface.co/datasets/Jessica-bader/SUB) | **synthetic** bird classification | 312            | 200           |
+| [Substitutions on CUB (SUB)](http://huggingface.co/datasets/Jessica-bader/SUB) | **synthetic** bird classification | 312            | 200           |
 
 ## Papers Sorted by Publication Year
 
@@ -101,12 +101,15 @@ The original Concept Bottleneck Model maps each concept to a single (probabilist
 | AAAI | [Explanation Bottleneck Models](https://ojs.aaai.org/index.php/AAAI/article/view/35495) | [Code](https://github.com/yshinya6/xbm) |
 | AAAI | [V2C-CBM: Building Concept Bottlenecks with Vision-to-Concept Tokenizer](https://ojs.aaai.org/index.php/AAAI/article/view/32352) | [Code](https://github.com/riverback/V2C-CBM) |
 | ACL | [Enhancing Interpretable Image Classification Through LLM Agents and Conditional Concept Bottleneck Models](10.48550/arXiv.2506.01334) | - |
+| ACM CHI W | [Supporting Data-Frame Dynamics in AI-assisted Decision Making](https://arxiv.org/abs/2504.15894) | - |
+| ACM MM BNI | [Learning New Concepts, Remembering the Old: A Novel Continual Learning for Multimodal Concept Bottleneck Models](https://arxiv.org/abs/2411.17471) | - |
 |   CVPR   | [Interpretable Generative Models through Post-hoc Concept Bottlenecks](https://arxiv.org/pdf/2503.19377v1) | [Code](https://github.com/Trustworthy-ML-Lab/posthoc-generative-cbm) |
 | CVPR | [Attribute-formed Class-specific Concept Space: Endowing Language Bottleneck Model with Better Interpretability and Scalability](http://arxiv.org/abs/2503.20301) | [Code](https://github.com/tiggers23/ALBM) |
 | CVPR | [Language Guided Concept Bottleneck Models for Interpretable Continual Learning](https://arxiv.org/abs/2503.23283) | [Code](https://github.com/FisherCats/CLG-CBM) |
 | CVPR | [Discovering Fine-Grained Visual-Concept Relations by Disentangled Optimal Transport Concept Bottleneck Models](http://arxiv.org/abs/2505.07209) | - |
 |  CVPR W  | [PCBEAR: Pose Concept Bottleneck for Explainable Action Recognition](https://arxiv.org/abs/2504.13140) |                              -                               |
 | ECML-PKDD | [Stable Vision Concept Transformers for Medical Diagnosis](http://arxiv.org/abs/2506.05286) | - |
+| EICS 2025 | [CBM-RAG: Demonstrating Enhanced Interpretability in Radiology Report Generation with Multi-Agent RAG and Concept Bottleneck Models](https://arxiv.org/abs/2504.20898) | - |
 | ICCV | [Intervening in Black Box: Concept Bottleneck Model for Enhancing Human Neural Network Mutual Understanding](http://arxiv.org/abs/2506.22803) | [Code](https://github.com/XiGuaBo/CBM-HNMU) |
 | ICCV | [SUB: Benchmarking CBM Generalization via Synthetic Attribute Substitutions](https://arxiv.org/pdf/2507.23784) | [Code](https://github.com/ExplainableML/sub) |
 |   ICLR   | [Counterfactual Concept Bottleneck Models](https://openreview.net/forum?id=w7pMjyjsKN) | [Code](https://github.com/gabriele-dominici/Counterfactual-CBM) |
@@ -141,6 +144,7 @@ The original Concept Bottleneck Model maps each concept to a single (probabilist
 | Arxiv | [CoCo-Bot: Energy-based Composable Concept Bottlenecks for Interpretable Generative Models](https://arxiv.org/abs/2507.08334) | - |
 | Arxiv | [FHSTP@ EXIST 2025 Benchmark: Sexism Detection with Transparent Speech Concept Bottleneck Models](https://arxiv.org/abs/2507.20924) | - |
 | Arxiv | [A Concept-based approach to Voice Disorder Detection](https://arxiv.org/abs/2507.17799) | - |
+|             |                                                              |                                                              |
 
 ### 2024
 | Publication |    Paper Title     |   Code/Project                                                 |
