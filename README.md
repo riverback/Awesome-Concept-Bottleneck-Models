@@ -124,9 +124,10 @@ The original Concept Bottleneck Model maps each concept to a single (probabilist
 | ICML | [Concept-Based Unsupervised Domain Adaptation](https://arxiv.org/pdf/2505.05195) | [Code](https://github.com/xmed-lab/CUDA) |
 | ICML | [Avoiding Leakage Poisoning: Concept Interventions Under Distribution Shifts](https://arxiv.org/pdf/2504.17921) | [Code](https://github.com/mateoespinosa/cem) |
 | ICML W | [Interpretable Reward Modeling with Active Concept Bottlenecks](https://arxiv.org/abs/2507.04695) | [Code](https://github.com/sonialagunac/cb-rm-workshop) |
+| ICML W | [Neural Concept Verifier: Scaling Prover-Verifier Games via Concept Encodings](https://arxiv.org/abs/2507.07532) | - |
 | IEEE TMI | [Concept-Based Lesion Aware Transformer for Interpretable Retinal Disease Diagnosis](https://ieeexplore.ieee.org/document/10599508) | [Code](https://github.com/Sorades/CLAT) |
 | IEEE TMM | [Leveraging Concise Concepts with Probabilistic Modeling for Interpretable Visual Recognition](https://ieeexplore.ieee.org/document/10948345) |                              -                               |
-| IEEE CCSSTA | [Concept Learning for Cooperative Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2507.20143) |  |
+| IEEE CCSSTA | [Concept Learning for Cooperative Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2507.20143) | - |
 | IJCAI | [MVP-CBM:Multi-layer Visual Preference-enhanced Concept Bottleneck Model for Explainable Medical Image Classification](http://arxiv.org/abs/2506.12568) | [Code](https://github.com/wcj6/MVP-CBM) |
 |  MICCAI  | [Learning Concept-Driven Logical Rules for Interpretable and Generalizable Medical Image Classification](https://arxiv.org/abs/2505.14049) |            [Code](https://github.com/obiyoag/crl)            |
 |  MICCAI  | [Training-free Test-time Improvement for Explainable Medical Image Classification](https://arxiv.org/abs/2506.18070) |       [Code](https://github.com/riverback/TF-TTI-XMed)       |
@@ -144,7 +145,6 @@ The original Concept Bottleneck Model maps each concept to a single (probabilist
 | Arxiv | [CoCo-Bot: Energy-based Composable Concept Bottlenecks for Interpretable Generative Models](https://arxiv.org/abs/2507.08334) | - |
 | Arxiv | [FHSTP@ EXIST 2025 Benchmark: Sexism Detection with Transparent Speech Concept Bottleneck Models](https://arxiv.org/abs/2507.20924) | - |
 | Arxiv | [A Concept-based approach to Voice Disorder Detection](https://arxiv.org/abs/2507.17799) | - |
-|             |                                                              |                                                              |
 
 ### 2024
 | Publication |    Paper Title     |   Code/Project                                                 |
