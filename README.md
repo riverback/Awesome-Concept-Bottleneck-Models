@@ -102,7 +102,7 @@ The original Concept Bottleneck Model maps each concept to a single (probabilist
 | AAAI | [V2C-CBM: Building Concept Bottlenecks with Vision-to-Concept Tokenizer](https://ojs.aaai.org/index.php/AAAI/article/view/32352) | [Code](https://github.com/riverback/V2C-CBM) |
 | ACL | [Enhancing Interpretable Image Classification Through LLM Agents and Conditional Concept Bottleneck Models](10.48550/arXiv.2506.01334) | - |
 | ACM CHI W | [Supporting Data-Frame Dynamics in AI-assisted Decision Making](https://arxiv.org/abs/2504.15894) | - |
-| ACM MM BNI | [Learning New Concepts, Remembering the Old: A Novel Continual Learning for Multimodal Concept Bottleneck Models](https://arxiv.org/abs/2411.17471) | - |
+| ACM MM BNI | [Learning New Concepts, Remembering the Old: A Novel Continual Learning for Multimodal Concept Bottleneck Models](https://arxiv.org/abs/2411.17471) | [Code](https://github.com/xll0328/CONCIL---ACM-MM-2025-BNI-Track-) |
 |   CVPR   | [Interpretable Generative Models through Post-hoc Concept Bottlenecks](https://arxiv.org/pdf/2503.19377v1) | [Code](https://github.com/Trustworthy-ML-Lab/posthoc-generative-cbm) |
 | CVPR | [Attribute-formed Class-specific Concept Space: Endowing Language Bottleneck Model with Better Interpretability and Scalability](http://arxiv.org/abs/2503.20301) | [Code](https://github.com/tiggers23/ALBM) |
 | CVPR | [Language Guided Concept Bottleneck Models for Interpretable Continual Learning](https://arxiv.org/abs/2503.23283) | [Code](https://github.com/FisherCats/CLG-CBM) |
@@ -145,6 +145,7 @@ The original Concept Bottleneck Model maps each concept to a single (probabilist
 | Arxiv | [CoCo-Bot: Energy-based Composable Concept Bottlenecks for Interpretable Generative Models](https://arxiv.org/abs/2507.08334) | - |
 | Arxiv | [FHSTP@ EXIST 2025 Benchmark: Sexism Detection with Transparent Speech Concept Bottleneck Models](https://arxiv.org/abs/2507.20924) | - |
 | Arxiv | [A Concept-based approach to Voice Disorder Detection](https://arxiv.org/abs/2507.17799) | - |
+| Arxiv | [Transferring Expert Cognitive Models to Social Robots via Agentic Concept Bottleneck Models](https://arxiv.org/abs/2508.03998) | - |
 
 ### 2024
 | Publication |    Paper Title     |   Code/Project                                                 |
