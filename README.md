@@ -129,6 +129,7 @@ The original Concept Bottleneck Model maps each concept to a single (probabilist
 | IEEE TMM | [Leveraging Concise Concepts with Probabilistic Modeling for Interpretable Visual Recognition](https://ieeexplore.ieee.org/document/10948345) |                              -                               |
 | IEEE CCSSTA | [Concept Learning for Cooperative Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2507.20143) | - |
 | IJCAI | [MVP-CBM:Multi-layer Visual Preference-enhanced Concept Bottleneck Model for Explainable Medical Image Classification](http://arxiv.org/abs/2506.12568) | [Code](https://github.com/wcj6/MVP-CBM) |
+| Information Processing & Management | [Distilling Knowledge from Large Language Models: A Concept Bottleneck Model for Hate and Counter Speech Recognition](https://arxiv.org/abs/2508.08274) | [Code](https://github.com/fhstp/SCBM) |
 |  MICCAI  | [Learning Concept-Driven Logical Rules for Interpretable and Generalizable Medical Image Classification](https://arxiv.org/abs/2505.14049) |            [Code](https://github.com/obiyoag/crl)            |
 |  MICCAI  | [Training-free Test-time Improvement for Explainable Medical Image Classification](https://arxiv.org/abs/2506.18070) |       [Code](https://github.com/riverback/TF-TTI-XMed)       |
 |   TMLR   | [Selective Concept Bottleneck Models Without Predefined Concepts](https://openreview.net/pdf?id=uuvujfQXZy) |      [Code](https://openreview.net/forum?id=PMO30TLI4l)      |
