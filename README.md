@@ -168,6 +168,7 @@ The original Concept Bottleneck Model maps each concept to a single (probabilist
 | ICML W | [Enhancing concept-based learning with logic](https://openreview.net/forum?id=6e1K5TAjhh) | - |
 | IEEE TPAMI | [The Decoupling Concept Bottleneck Model](https://ieeexplore.ieee.org/document/10740789) | [Code](https://github.com/deepopo/DCBM) |
 | JBHI | [Guest Editorial: Trustworthy Machine Learning for Health Informatics](https://ieeexplore.ieee.org/iel8/6221020/10745910/10745914.pdf) | - |
+| MedIA | [Interpretable and Intervenable Ultrasonography-Based Machine Learning Models for Pediatric Appendicitis](https://doi.org/10.1016/j.media.2023.103042) | [Code](https://github.com/i6092467/semi-supervised-multiview-cbm) |
 | MICCAI | [Concept-Attention Whitening for Interpretable Skin Lesion Diagnosis](https://arxiv.org/pdf/2404.05997v2) |[Code](https://github.com/CAWframework/Concept-Attention-Whitening-for-Interpretable-Skin-Lesion-Diagnosis-Reproduction)|
 | MICCAI | [Aligning human knowledge with visual concepts towards explainable medical image classification](https://arxiv.org/pdf/2406.05596) |[Code](https://github.com/yhygao/Explicd?tab=readme-ov-file)|
 | MICCAI | [Evidential concept embedding models: Towards reliable concept explanations for skin disease diagnosis](https://arxiv.org/pdf/2406.19130) |[Code](https://github.com/obiyoag/evi-CEM)|
@@ -175,7 +176,7 @@ The original Concept Bottleneck Model maps each concept to a single (probabilist
 | MICCAI | [Mask-Free Neuron Concept Annotation for Interpreting Neural Networks in Medical Domain](https://arxiv.org/pdf/2407.11375v1) |  [Code](https://github.com/ailab-kyunghee/mammi)|
 | MICCAI | [AdaCBM: an Adaptive Concept Bottleneck Model for Explainable and Accurate Diagnosis](https://doi.org/10.48550/arxiv.2105.02410) |  [Code](https://github.com/AIML-MED/AdaCBM)|
 | MICCAI | [Integrating Clinical Knowledge into Concept Bottleneck Models](https://doi.org/10.1007/978-3-031-72083-3_23) |[Code](https://github.com/pangwinnie0219/align_concept_cbm)|
-| MedIA | [Interpretable and Intervenable Ultrasonography-Based Machine Learning Models for Pediatric Appendicitis](https://doi.org/10.1016/j.media.2023.103042) |[Code](https://github.com/i6092467/semi-supervised-multiview-cbm)|
+| MLHC | [Improving ARDS Diagnosis Through Context-Aware Concept Bottleneck Models](https://arxiv.org/abs/2508.09719) |[Code](https://github.com/ai4ai-lab/context-aware-cbms)|
 | NeurIPS | [Stochastic Concept Bottleneck Models](https://arxiv.org/abs/2406.19272) | [Code](https://github.com/mvandenhi/scbm) |
 | NeurIPS | [Coarse-to-Fine Concept Bottleneck Models](https://proceedings.neurips.cc/paper_files/paper/2024/hash/bdeab378efe6eb289714e2a5abc6ed42-Abstract-Conference.html) | [Code](https://github.com/konpanousis/Coarse-To-Fine-CBMs) |
 | NeurIPS | [VLG-CBM: Training Concept Bottleneck Models with Vision-Language Guidance](https://arxiv.org/abs/2408.01432) | [Code](https://github.com/Trustworthy-ML-Lab/VLG-CBM) |
