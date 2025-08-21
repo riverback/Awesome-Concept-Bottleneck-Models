@@ -55,6 +55,7 @@ The original Concept Bottleneck Model maps each concept to a single (probabilist
 | [XBMs](https://ojs.aaai.org/index.php/AAAI/article/view/35495) | AAAI 2025             | MLLM (LLaVA)                          | [Code](https://github.com/yshinya6/xbm)                      |
 | [V2C-CBM](https://ojs.aaai.org/index.php/AAAI/article/view/32352) | AAAI 2025             | VLM (CLIP) + Common words             | [Code](https://github.com/riverback/V2C-CBM)                 |
 | [UBMs](https://openreview.net/forum?id=PMO30TLI4l)           | TMLR 2025             | Concept discovery (image patch)       | [Code](https://openreview.net/forum?id=PMO30TLI4l)           |
+|                                                              |                       |                                       |                                                              |
 
 
 
@@ -111,6 +112,7 @@ The original Concept Bottleneck Model maps each concept to a single (probabilist
 | ECML-PKDD | [Stable Vision Concept Transformers for Medical Diagnosis](http://arxiv.org/abs/2506.05286) | - |
 | EICS 2025 | [CBM-RAG: Demonstrating Enhanced Interpretability in Radiology Report Generation with Multi-Agent RAG and Concept Bottleneck Models](https://arxiv.org/abs/2504.20898) | - |
 | ICCV | [Intervening in Black Box: Concept Bottleneck Model for Enhancing Human Neural Network Mutual Understanding](http://arxiv.org/abs/2506.22803) | [Code](https://github.com/XiGuaBo/CBM-HNMU) |
+| ICCV | [Semi-supervised Concept Bottleneck Models](https://dblp.uni-trier.de/rec/journals/corr/abs-2406-18992.html) | [Code](https://github.com/Skyyyy0920/SSCBM) |
 | ICCV | [SUB: Benchmarking CBM Generalization via Synthetic Attribute Substitutions](https://arxiv.org/pdf/2507.23784) | [Code](https://github.com/ExplainableML/sub) |
 |   ICLR   | [Counterfactual Concept Bottleneck Models](https://openreview.net/forum?id=w7pMjyjsKN) | [Code](https://github.com/gabriele-dominici/Counterfactual-CBM) |
 |   ICLR   | [Concept Bottleneck Large Language Models](https://openreview.net/forum?id=RC5FPYVQaH) |    [Code](https://github.com/Trustworthy-ML-Lab/CB-LLMs)     |
@@ -147,6 +149,8 @@ The original Concept Bottleneck Model maps each concept to a single (probabilist
 | Arxiv | [FHSTP@ EXIST 2025 Benchmark: Sexism Detection with Transparent Speech Concept Bottleneck Models](https://arxiv.org/abs/2507.20924) | - |
 | Arxiv | [A Concept-based approach to Voice Disorder Detection](https://arxiv.org/abs/2507.17799) | - |
 | Arxiv | [Transferring Expert Cognitive Models to Social Robots via Agentic Concept Bottleneck Models](https://arxiv.org/abs/2508.03998) | - |
+| Arxiv | [Graph Concept Bottleneck Models](https://arxiv.org/abs/2508.14255) | - |
+| Arxiv | [Locality-aware Concept Bottleneck Model](https://arxiv.org/abs/2508.14562) | - |
 
 ### 2024
 | Publication |    Paper Title     |   Code/Project                                                 |
@@ -208,7 +212,6 @@ The original Concept Bottleneck Model maps each concept to a single (probabilist
 | TMLR | [[Re].on the Reproducibility of Post-Hoc Concept Bottleneck Models](https://dblp.uni-trier.de/rec/journals/tmlr/MidavaineGCSC24.html) | [Code](https://github.com/dgcnz/FACT) |
 | TMLR | [CLIP-QDA: an Explainable Concept Bottleneck Model](https://doi.org/10.48550/arxiv.2312.00110) |  |
 | Arxiv | [Explainable and interpretable multimodal large language models: A comprehensive survey](https://arxiv.org/abs/2412.02104) | - |
-| Arxiv | [Semi-supervised Concept Bottleneck Models](https://dblp.uni-trier.de/rec/journals/corr/abs-2406-18992.html) | [Code](https://github.com/Skyyyy0920/SSCBM) |
 | Arxiv | [Self-eXplainable AI for Medical Image Analysis: A Survey and New Outlooks](https://arxiv.org/abs/2410.02331) | - |
 | Arxiv | [Concept Complement Bottleneck Model for Interpretable Medical Image Diagnosis](https://arxiv.org/abs/2410.15446) | - |
 | Arxiv | [Improving Concept Alignment in Vision-Language Concept Bottleneck Models](https://arxiv.org/pdf/2405.01825) | [Code](https://github.com/NMS05/Improving-Concept-Alignment-in-Vision-Language-Concept-Bottleneck-Models) |
