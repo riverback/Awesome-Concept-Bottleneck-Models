@@ -152,6 +152,7 @@ The original Concept Bottleneck Model maps each concept to a single (probabilist
 | Arxiv | [Transferring Expert Cognitive Models to Social Robots via Agentic Concept Bottleneck Models](https://arxiv.org/abs/2508.03998) | - |
 | Arxiv | [Graph Concept Bottleneck Models](https://arxiv.org/abs/2508.14255) | - |
 | Arxiv | [Locality-aware Concept Bottleneck Model](https://arxiv.org/abs/2508.14562) | - |
+| Arxiv | [Towards Interpretable Geo-localization: a Concept-Aware Global Image-GPS Alignment Framework](https://arxiv.org/abs/2509.01910) | - |
 
 ### 2024
 | Publication |    Paper Title     |   Code/Project                                                 |
