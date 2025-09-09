@@ -110,6 +110,7 @@ The original Concept Bottleneck Model maps each concept to a single (probabilist
 | CVPR | [Discovering Fine-Grained Visual-Concept Relations by Disentangled Optimal Transport Concept Bottleneck Models](http://arxiv.org/abs/2505.07209) | - |
 |  CVPR W  | [PCBEAR: Pose Concept Bottleneck for Explainable Action Recognition](https://arxiv.org/abs/2504.13140) |                              -                               |
 | ECML-PKDD | [Stable Vision Concept Transformers for Medical Diagnosis](http://arxiv.org/abs/2506.05286) | - |
+| ECML-PKDD | [Linearly-interpretable concept embedding models for text analysis](https://link.springer.com/article/10.1007/s10994-025-06839-5) | [Code](https://github.com/francescoTheSantis/Linearly-Interpretable-Concept-Embedding-Model-for-Text/tree/main) |
 | EICS 2025 | [CBM-RAG: Demonstrating Enhanced Interpretability in Radiology Report Generation with Multi-Agent RAG and Concept Bottleneck Models](https://arxiv.org/abs/2504.20898) | - |
 | ICCV | [Intervening in Black Box: Concept Bottleneck Model for Enhancing Human Neural Network Mutual Understanding](http://arxiv.org/abs/2506.22803) | [Code](https://github.com/XiGuaBo/CBM-HNMU) |
 | ICCV | [Semi-supervised Concept Bottleneck Models](https://dblp.uni-trier.de/rec/journals/corr/abs-2406-18992.html) | [Code](https://github.com/Skyyyy0920/SSCBM) |
