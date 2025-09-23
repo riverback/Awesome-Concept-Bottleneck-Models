@@ -112,6 +112,7 @@ The original Concept Bottleneck Model maps each concept to a single (probabilist
 | ECML-PKDD | [Stable Vision Concept Transformers for Medical Diagnosis](http://arxiv.org/abs/2506.05286) | - |
 | ECML-PKDD | [Linearly-interpretable concept embedding models for text analysis](https://link.springer.com/article/10.1007/s10994-025-06839-5) | [Code](https://github.com/francescoTheSantis/Linearly-Interpretable-Concept-Embedding-Model-for-Text/tree/main) |
 | EICS 2025 | [CBM-RAG: Demonstrating Enhanced Interpretability in Radiology Report Generation with Multi-Agent RAG and Concept Bottleneck Models](https://arxiv.org/abs/2504.20898) | - |
+| EMNLP | [WISE: Weak-Supervision-Guided Step-by-Step Explanations for Multimodal LLMs in Image Classification](https://arxiv.org/abs/2509.17740) | [Code](https://github.com/yiwenJG/WISE-MCoT) |
 | ICCV | [Intervening in Black Box: Concept Bottleneck Model for Enhancing Human Neural Network Mutual Understanding](http://arxiv.org/abs/2506.22803) | [Code](https://github.com/XiGuaBo/CBM-HNMU) |
 | ICCV | [Semi-supervised Concept Bottleneck Models](https://dblp.uni-trier.de/rec/journals/corr/abs-2406-18992.html) | [Code](https://github.com/Skyyyy0920/SSCBM) |
 | ICCV | [SUB: Benchmarking CBM Generalization via Synthetic Attribute Substitutions](https://arxiv.org/pdf/2507.23784) | [Code](https://github.com/ExplainableML/sub) |
