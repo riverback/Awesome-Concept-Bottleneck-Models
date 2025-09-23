@@ -155,6 +155,7 @@ The original Concept Bottleneck Model maps each concept to a single (probabilist
 | Arxiv | [Locality-aware Concept Bottleneck Model](https://arxiv.org/abs/2508.14562) | - |
 | Arxiv | [Towards Interpretable Geo-localization: a Concept-Aware Global Image-GPS Alignment Framework](https://arxiv.org/abs/2509.01910) | - |
 | Arxiv | [An Analysis of Concept Bottleneck Models: Measuring, Understanding, and Mitigating the Impact of Noisy Annotations](https://www.arxiv.org/abs/2505.16705) | - |
+| Arxiv | [RespoDiff: Dual-Module Bottleneck Transformation for Responsible & Faithful T2I Generation](https://arxiv.org/abs/2509.15257) | - |
 
 ### 2024
 | Publication |    Paper Title     |   Code/Project                                                 |
