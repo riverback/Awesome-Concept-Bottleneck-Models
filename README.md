@@ -137,6 +137,7 @@ The original Concept Bottleneck Model maps each concept to a single (probabilist
 |  MICCAI  | [Learning Concept-Driven Logical Rules for Interpretable and Generalizable Medical Image Classification](https://arxiv.org/abs/2505.14049) |            [Code](https://github.com/obiyoag/crl)            |
 |  MICCAI  | [Training-free Test-time Improvement for Explainable Medical Image Classification](https://arxiv.org/abs/2506.18070) |       [Code](https://github.com/riverback/TF-TTI-XMed)       |
 | Nature Communications | [A concept-based interpretable model for the diagnosis of choroid neoplasias using multimodal data](https://www.nature.com/articles/s41467-025-58801-7) | [Code](https://github.com/brain-intelligence-lab/MMCBM) |
+| NeurIPS | [Understanding and Improving Adversarial Robustness of Neural Probabilistic Circuits](https://arxiv.org/abs/2509.20549) | [Code](https://github.com/uiuctml/RNPC) |
 |   TMLR   | [Selective Concept Bottleneck Models Without Predefined Concepts](https://openreview.net/pdf?id=uuvujfQXZy) |      [Code](https://openreview.net/forum?id=PMO30TLI4l)      |
 | xAI | [V-CEM: Bridging Performance and Intervenability in Concept-based Models](https://arxiv.org/abs/2504.03978) | [Code](https://github.com/francescoTheSantis/Variational-Concept-Embedding-Model) |
 |  Arxiv   | [ConceptCLIP: Towards Trustworthy Medical AI Via Concept-Enhanced Contrastive Langauge-Image Pre-training](https://arxiv.org/abs/2501.15579) |       [Code](https://github.com/JerrryNie/ConceptCLIP)       |
@@ -157,6 +158,7 @@ The original Concept Bottleneck Model maps each concept to a single (probabilist
 | Arxiv | [Towards Interpretable Geo-localization: a Concept-Aware Global Image-GPS Alignment Framework](https://arxiv.org/abs/2509.01910) | - |
 | Arxiv | [An Analysis of Concept Bottleneck Models: Measuring, Understanding, and Mitigating the Impact of Noisy Annotations](https://www.arxiv.org/abs/2505.16705) | - |
 | Arxiv | [RespoDiff: Dual-Module Bottleneck Transformation for Responsible & Faithful T2I Generation](https://arxiv.org/abs/2509.15257) | - |
+| Arxiv | [Concepts in Motion: Temporal Bottlenecks for Interpretable Video Classification](https://arxiv.org/abs/2509.20899) | [Code](https://github.com/patrick-knab/MoTIF) |
 
 ### 2024
 | Publication |    Paper Title     |   Code/Project                                                 |
