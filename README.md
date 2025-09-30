@@ -159,6 +159,7 @@ The original Concept Bottleneck Model maps each concept to a single (probabilist
 | Arxiv | [An Analysis of Concept Bottleneck Models: Measuring, Understanding, and Mitigating the Impact of Noisy Annotations](https://www.arxiv.org/abs/2505.16705) | - |
 | Arxiv | [RespoDiff: Dual-Module Bottleneck Transformation for Responsible & Faithful T2I Generation](https://arxiv.org/abs/2509.15257) | - |
 | Arxiv | [Concepts in Motion: Temporal Bottlenecks for Interpretable Video Classification](https://arxiv.org/abs/2509.20899) | [Code](https://github.com/patrick-knab/MoTIF) |
+| Arxiv | [Debugging Concept Bottleneck Models through Removal and Retraining](https://arxiv.org/abs/2509.21385) | [Code](https://github.com/ericenouen/cbdebug) |
 
 ### 2024
 | Publication |    Paper Title     |   Code/Project                                                 |
