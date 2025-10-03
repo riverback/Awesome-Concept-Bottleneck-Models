@@ -81,18 +81,19 @@ The original Concept Bottleneck Model maps each concept to a single (probabilist
 
 **Concept Annotated Datasets**
 
-| Name                                                         | Task                              | N. of concepts | N. of classes |
-| ------------------------------------------------------------ | --------------------------------- | -------------- | ------------- |
-| [CUB](https://worksheets.codalab.org/bundles/0x518829de2aa440c79cd9d75ef6669f27) | birds classification              | 312            | 200           |
-| [AwA2](https://cvml.ista.ac.at/AwA2/)                        | animals classification            | 85             | 50            |
-| [CelebA](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html)   | identities classification         | 6              | 1,000         |
-| [OAI](https://nda.nih.gov/oai)                               | x-ray grading                     | 10             | 4             |
-| [WBCAtt](https://github.com/apple2373/wbcatt)                | white blood cells classification  | 31             | 5             |
-| [Fitzpatrick 17k (subset)](https://skincon-dataset.github.io/index.html#dataset) | skin diseases classification      | 48             | 2             |
-| [Diverse Dermatology Images (DDI)](https://skincon-dataset.github.io/index.html#dataset) | skin diseases classification      | 48             | 2             |
-| [Skincon (Fitz sub + DDI annotated)](https://skincon-dataset.github.io/index.html#dataset) | skin diseases classification      | 48             | 2             |
-| [DermaCon-IN](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/W7OUZM) | skin diseases classification      | 47             | 8             |
-| [Substitutions on CUB (SUB)](http://huggingface.co/datasets/Jessica-bader/SUB) | **synthetic** bird classification | 312            | 200           |
+| Name                                                         | Task                             | N. of concepts | N. of classes |
+| ------------------------------------------------------------ | -------------------------------- | -------------- | ------------- |
+| [AwA2](https://cvml.ista.ac.at/AwA2/)                        | animals classification           | 85             | 50            |
+| [CelebA](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html)   | identities classification        | 6              | 1,000         |
+| [CUB](https://worksheets.codalab.org/bundles/0x518829de2aa440c79cd9d75ef6669f27) | birds classification             | 312            | 200           |
+| [DermaCon-IN](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/W7OUZM) | skin diseases classification     | 47             | 8             |
+| [Diverse Dermatology Images (DDI)](https://skincon-dataset.github.io/index.html#dataset) | skin diseases classification     | 48             | 2             |
+| [Fitzpatrick 17k (subset)](https://skincon-dataset.github.io/index.html#dataset) | skin diseases classification     | 48             | 2             |
+| [WBCAtt](https://github.com/apple2373/wbcatt)                | white blood cells classification | 31             | 5             |
+| [OAI](https://nda.nih.gov/oai)                               | x-ray grading                    | 10             | 4             |
+| [RIVAL10 Dataset](https://mmoayeri.github.io/RIVAL10/index.html) | natural image classification     | 18             | 10            |
+| [Skincon (Fitz sub + DDI annotated)](https://skincon-dataset.github.io/index.html#dataset) | skin diseases classification     | 48             | 2             |
+| [Substitutions on CUB (SUB)](http://huggingface.co/datasets/Jessica-bader/SUB) | synthetic bird classification    | 312            | 200           |
 
 ## Papers Sorted by Publication Year
 
@@ -111,6 +112,7 @@ The original Concept Bottleneck Model maps each concept to a single (probabilist
 |  CVPR W  | [PCBEAR: Pose Concept Bottleneck for Explainable Action Recognition](https://arxiv.org/abs/2504.13140) |                              -                               |
 | ECML-PKDD | [Stable Vision Concept Transformers for Medical Diagnosis](http://arxiv.org/abs/2506.05286) | - |
 | ECML-PKDD | [Linearly-interpretable concept embedding models for text analysis](https://link.springer.com/article/10.1007/s10994-025-06839-5) | [Code](https://github.com/francescoTheSantis/Linearly-Interpretable-Concept-Embedding-Model-for-Text/tree/main) |
+| ECML-PKDD | [Uncertainty-Aware Concept Bottleneck Models with Enhanced Interpretability](https://arxiv.org/abs/2510.00773) | - |
 | EICS 2025 | [CBM-RAG: Demonstrating Enhanced Interpretability in Radiology Report Generation with Multi-Agent RAG and Concept Bottleneck Models](https://arxiv.org/abs/2504.20898) | - |
 | EMNLP | [WISE: Weak-Supervision-Guided Step-by-Step Explanations for Multimodal LLMs in Image Classification](https://arxiv.org/abs/2509.17740) | [Code](https://github.com/yiwenJG/WISE-MCoT) |
 | ICCV | [Intervening in Black Box: Concept Bottleneck Model for Enhancing Human Neural Network Mutual Understanding](http://arxiv.org/abs/2506.22803) | [Code](https://github.com/XiGuaBo/CBM-HNMU) |
@@ -160,6 +162,8 @@ The original Concept Bottleneck Model maps each concept to a single (probabilist
 | Arxiv | [RespoDiff: Dual-Module Bottleneck Transformation for Responsible & Faithful T2I Generation](https://arxiv.org/abs/2509.15257) | - |
 | Arxiv | [Concepts in Motion: Temporal Bottlenecks for Interpretable Video Classification](https://arxiv.org/abs/2509.20899) | [Code](https://github.com/patrick-knab/MoTIF) |
 | Arxiv | [Debugging Concept Bottleneck Models through Removal and Retraining](https://arxiv.org/abs/2509.21385) | [Code](https://github.com/ericenouen/cbdebug) |
+| Arxiv | [Automated Genomic Interpretation via Concept Bottleneck Models for Medical Robotics](https://arxiv.org/abs/2510.01618) | - |
+| Arxiv | [Graph Integrated Multimodal Concept Bottleneck Model](https://arxiv.org/abs/2510.00701) |  |
 
 ### 2024
 | Publication |    Paper Title     |   Code/Project                                                 |
