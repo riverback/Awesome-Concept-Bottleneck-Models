@@ -138,6 +138,7 @@ The original Concept Bottleneck Model maps each concept to a single (probabilist
 | Information Processing & Management | [Distilling Knowledge from Large Language Models: A Concept Bottleneck Model for Hate and Counter Speech Recognition](https://arxiv.org/abs/2508.08274) | [Code](https://github.com/fhstp/SCBM) |
 |  MICCAI  | [Learning Concept-Driven Logical Rules for Interpretable and Generalizable Medical Image Classification](https://arxiv.org/abs/2505.14049) |            [Code](https://github.com/obiyoag/crl)            |
 |  MICCAI  | [Training-free Test-time Improvement for Explainable Medical Image Classification](https://arxiv.org/abs/2506.18070) |       [Code](https://github.com/riverback/TF-TTI-XMed)       |
+| MICCAI | [CoPA: Hierarchical Concept Prompting and Aggregating Network for Explainable Diagnosis](https://arxiv.org/abs/2510.03767) | [Code](https://github.com/yihengd/CoPA) |
 | Nature Communications | [A concept-based interpretable model for the diagnosis of choroid neoplasias using multimodal data](https://www.nature.com/articles/s41467-025-58801-7) | [Code](https://github.com/brain-intelligence-lab/MMCBM) |
 | NeurIPS | [Understanding and Improving Adversarial Robustness of Neural Probabilistic Circuits](https://arxiv.org/abs/2509.20549) | [Code](https://github.com/uiuctml/RNPC) |
 |   TMLR   | [Selective Concept Bottleneck Models Without Predefined Concepts](https://openreview.net/pdf?id=uuvujfQXZy) |      [Code](https://openreview.net/forum?id=PMO30TLI4l)      |
@@ -163,7 +164,8 @@ The original Concept Bottleneck Model maps each concept to a single (probabilist
 | Arxiv | [Concepts in Motion: Temporal Bottlenecks for Interpretable Video Classification](https://arxiv.org/abs/2509.20899) | [Code](https://github.com/patrick-knab/MoTIF) |
 | Arxiv | [Debugging Concept Bottleneck Models through Removal and Retraining](https://arxiv.org/abs/2509.21385) | [Code](https://github.com/ericenouen/cbdebug) |
 | Arxiv | [Automated Genomic Interpretation via Concept Bottleneck Models for Medical Robotics](https://arxiv.org/abs/2510.01618) | - |
-| Arxiv | [Graph Integrated Multimodal Concept Bottleneck Model](https://arxiv.org/abs/2510.00701) |  |
+| Arxiv | [Graph Integrated Multimodal Concept Bottleneck Model](https://arxiv.org/abs/2510.00701) | - |
+| Arixv | [From Segments to Concepts: Interpretable Image Classification via Concept-Guided Segmentation](https://arxiv.org/abs/2510.04180) | - |
 
 ### 2024
 | Publication |    Paper Title     |   Code/Project                                                 |
