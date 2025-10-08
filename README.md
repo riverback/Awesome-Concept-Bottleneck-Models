@@ -166,6 +166,7 @@ The original Concept Bottleneck Model maps each concept to a single (probabilist
 | Arxiv | [Automated Genomic Interpretation via Concept Bottleneck Models for Medical Robotics](https://arxiv.org/abs/2510.01618) | - |
 | Arxiv | [Graph Integrated Multimodal Concept Bottleneck Model](https://arxiv.org/abs/2510.00701) | - |
 | Arixv | [From Segments to Concepts: Interpretable Image Classification via Concept-Guided Segmentation](https://arxiv.org/abs/2510.04180) | - |
+| Arxiv | [Quantifying the Accuracy-Interpretability Trade-Off in Concept-Based Sidechannel Models](https://arxiv.org/abs/2510.05670) | - |
 
 ### 2024
 | Publication |    Paper Title     |   Code/Project                                                 |
