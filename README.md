@@ -167,6 +167,7 @@ The original Concept Bottleneck Model maps each concept to a single (probabilist
 | Arxiv | [Graph Integrated Multimodal Concept Bottleneck Model](https://arxiv.org/abs/2510.00701) | - |
 | Arixv | [From Segments to Concepts: Interpretable Image Classification via Concept-Guided Segmentation](https://arxiv.org/abs/2510.04180) | - |
 | Arxiv | [Quantifying the Accuracy-Interpretability Trade-Off in Concept-Based Sidechannel Models](https://arxiv.org/abs/2510.05670) | - |
+| Arxiv | [Enhancing Concept Localization in CLIP-based Concept Bottleneck Models](https://arxiv.org/abs/2510.07115) | - |
 
 ### 2024
 | Publication |    Paper Title     |   Code/Project                                                 |
