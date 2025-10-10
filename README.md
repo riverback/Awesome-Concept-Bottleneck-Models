@@ -169,6 +169,7 @@ The original Concept Bottleneck Model maps each concept to a single (probabilist
 | Arxiv | [Quantifying the Accuracy-Interpretability Trade-Off in Concept-Based Sidechannel Models](https://arxiv.org/abs/2510.05670) | - |
 | Arxiv | [Enhancing Concept Localization in CLIP-based Concept Bottleneck Models](https://arxiv.org/abs/2510.07115) | - |
 | Arxiv | [Post-hoc Stochastic Concept Bottleneck Models](https://arxiv.org/abs/2510.08219) | - |
+| Arxiv | [Chat-CBM: Towards Interactive Concept Bottleneck Models with Frozen Large Language Models](https://arxiv.org/abs/2509.17522) | - |
 
 ### 2024
 | Publication |    Paper Title     |   Code/Project                                                 |
