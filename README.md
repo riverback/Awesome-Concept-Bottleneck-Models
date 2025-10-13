@@ -161,7 +161,7 @@ The original Concept Bottleneck Model maps each concept to a single (probabilist
 | Arxiv | [Towards Interpretable Geo-localization: a Concept-Aware Global Image-GPS Alignment Framework](https://arxiv.org/abs/2509.01910) | - |
 | Arxiv | [An Analysis of Concept Bottleneck Models: Measuring, Understanding, and Mitigating the Impact of Noisy Annotations](https://www.arxiv.org/abs/2505.16705) | - |
 | Arxiv | [RespoDiff: Dual-Module Bottleneck Transformation for Responsible & Faithful T2I Generation](https://arxiv.org/abs/2509.15257) | - |
-| Arxiv | [Concepts in Motion: Temporal Bottlenecks for Interpretable Video Classification](https://arxiv.org/abs/2509.20899) | [Code](https://github.com/patrick-knab/MoTIF) |
+| Arxiv | [Concepts in Motion: Temporal Bottlenecks for Interpretable Video Classification](https://arxiv.org/abs/2509.20899) (video CBMs) | [Code](https://github.com/patrick-knab/MoTIF) |
 | Arxiv | [Debugging Concept Bottleneck Models through Removal and Retraining](https://arxiv.org/abs/2509.21385) | [Code](https://github.com/ericenouen/cbdebug) |
 | Arxiv | [Automated Genomic Interpretation via Concept Bottleneck Models for Medical Robotics](https://arxiv.org/abs/2510.01618) | - |
 | Arxiv | [Graph Integrated Multimodal Concept Bottleneck Model](https://arxiv.org/abs/2510.00701) | - |
@@ -170,6 +170,7 @@ The original Concept Bottleneck Model maps each concept to a single (probabilist
 | Arxiv | [Enhancing Concept Localization in CLIP-based Concept Bottleneck Models](https://arxiv.org/abs/2510.07115) | - |
 | Arxiv | [Post-hoc Stochastic Concept Bottleneck Models](https://arxiv.org/abs/2510.08219) | - |
 | Arxiv | [Chat-CBM: Towards Interactive Concept Bottleneck Models with Frozen Large Language Models](https://arxiv.org/abs/2509.17522) | - |
+| Arxiv | [Towards Safer and Understandable Driver Intention Prediction](https://arxiv.org/abs/2510.09200) (video CBMs) | [Code](https://mukil07.github.io/VCBM.github.io/) |
 
 ### 2024
 | Publication |    Paper Title     |   Code/Project                                                 |
