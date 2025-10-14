@@ -171,6 +171,7 @@ The original Concept Bottleneck Model maps each concept to a single (probabilist
 | Arxiv | [Post-hoc Stochastic Concept Bottleneck Models](https://arxiv.org/abs/2510.08219) | - |
 | Arxiv | [Chat-CBM: Towards Interactive Concept Bottleneck Models with Frozen Large Language Models](https://arxiv.org/abs/2509.17522) | - |
 | Arxiv | [Towards Safer and Understandable Driver Intention Prediction](https://arxiv.org/abs/2510.09200) (video CBMs) | [Code](https://mukil07.github.io/VCBM.github.io/) |
+| Arxiv | [CLMN: Concept based Language Models via Neural Symbolic Reasoning](https://arxiv.org/abs/2510.10063) | [Code](https://github.com/MichaelYang-lyx/CLMN) |
 
 ### 2024
 | Publication |    Paper Title     |   Code/Project                                                 |
