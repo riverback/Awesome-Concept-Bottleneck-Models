@@ -109,6 +109,7 @@ The original Concept Bottleneck Model maps each concept to a single (probabilist
 | CVPR | [Attribute-formed Class-specific Concept Space: Endowing Language Bottleneck Model with Better Interpretability and Scalability](http://arxiv.org/abs/2503.20301) | [Code](https://github.com/tiggers23/ALBM) |
 | CVPR | [Language Guided Concept Bottleneck Models for Interpretable Continual Learning](https://arxiv.org/abs/2503.23283) | [Code](https://github.com/FisherCats/CLG-CBM) |
 | CVPR | [Discovering Fine-Grained Visual-Concept Relations by Disentangled Optimal Transport Concept Bottleneck Models](http://arxiv.org/abs/2505.07209) | - |
+| CVPR | [Show and Tell: Visually Explainable Deep Neural Nets via Spatially-Aware Concept Bottleneck Models](https://openaccess.thecvf.com/content/CVPR2025/papers/Benou_Show_and_Tell_Visually_Explainable_Deep_Neural_Nets_via_Spatially-Aware_CVPR_2025_paper.pdf) | [Code](https://github.com/itaybenou/show-and-tell) |
 |  CVPR W  | [PCBEAR: Pose Concept Bottleneck for Explainable Action Recognition](https://arxiv.org/abs/2504.13140) |                              -                               |
 | ECML-PKDD | [Stable Vision Concept Transformers for Medical Diagnosis](http://arxiv.org/abs/2506.05286) | - |
 | ECML-PKDD | [Linearly-interpretable concept embedding models for text analysis](https://link.springer.com/article/10.1007/s10994-025-06839-5) | [Code](https://github.com/francescoTheSantis/Linearly-Interpretable-Concept-Embedding-Model-for-Text/tree/main) |
