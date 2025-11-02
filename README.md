@@ -143,6 +143,7 @@ The original Concept Bottleneck Model maps each concept to a single (probabilist
 | MICCAI | [CoPA: Hierarchical Concept Prompting and Aggregating Network for Explainable Diagnosis](https://arxiv.org/abs/2510.03767) | [Code](https://github.com/yihengd/CoPA) |
 | Nature Communications | [A concept-based interpretable model for the diagnosis of choroid neoplasias using multimodal data](https://www.nature.com/articles/s41467-025-58801-7) | [Code](https://github.com/brain-intelligence-lab/MMCBM) |
 | NeurIPS | [Understanding and Improving Adversarial Robustness of Neural Probabilistic Circuits](https://arxiv.org/abs/2509.20549) | [Code](https://github.com/uiuctml/RNPC) |
+| NeurIPS | [Disentangled Concepts Speak Louder Than Words: Explainable Video Action Recognition](https://jong980812.github.io/DANCE/static/pdfs/_NeurIPS_2025__DANCE.pdf) (Video CBMs) | [Code](https://github.com/KHU-VLL/DANCE) |
 |   TMLR   | [Selective Concept Bottleneck Models Without Predefined Concepts](https://openreview.net/pdf?id=uuvujfQXZy) |      [Code](https://openreview.net/forum?id=PMO30TLI4l)      |
 | xAI | [V-CEM: Bridging Performance and Intervenability in Concept-based Models](https://arxiv.org/abs/2504.03978) | [Code](https://github.com/francescoTheSantis/Variational-Concept-Embedding-Model) |
 |  Arxiv   | [ConceptCLIP: Towards Trustworthy Medical AI Via Concept-Enhanced Contrastive Langauge-Image Pre-training](https://arxiv.org/abs/2501.15579) |       [Code](https://github.com/JerrryNie/ConceptCLIP)       |
