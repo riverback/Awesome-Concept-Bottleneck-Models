@@ -176,6 +176,7 @@ The original Concept Bottleneck Model maps each concept to a single (probabilist
 | Arxiv | [Towards Safer and Understandable Driver Intention Prediction](https://arxiv.org/abs/2510.09200) (video CBMs) | [Code](https://mukil07.github.io/VCBM.github.io/) |
 | Arxiv | [CLMN: Concept based Language Models via Neural Symbolic Reasoning](https://arxiv.org/abs/2510.10063) | [Code](https://github.com/MichaelYang-lyx/CLMN) |
 | Arxiv | [Towards more holistic interpretability: A lightweight disentangled Concept Bottleneck Model](https://arxiv.org/abs/2510.15770) | - |
+| Arxiv | [Weakly Supervised Concept Learning with Class-Level Priors for Interpretable Medical Diagnosis](https://arxiv.org/abs/2511.01131) | - |
 
 ### 2024
 | Publication |    Paper Title     |   Code/Project                                                 |
