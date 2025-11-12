@@ -97,6 +97,13 @@ The original Concept Bottleneck Model maps each concept to a single (probabilist
 
 ## Papers Sorted by Publication Year
 
+### 2026
+
+| Publication | Paper Title                                                  |              Code/Project               |
+| :---------: | ------------------------------------------------------------ | :-------------------------------------: |
+|    AAAI     | [Flexible Concept Bottleneck Model](https://arxiv.org/pdf/2511.06678) | [Code](https://github.com/deepopo/FCBM) |
+|             |                                                              |                                         |
+
 ### 2025
 | Publication |    Paper Title     |   Code/Project                                                 |
 |:----:|-----------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------:|
