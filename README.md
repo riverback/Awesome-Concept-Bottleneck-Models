@@ -102,6 +102,7 @@ The original Concept Bottleneck Model maps each concept to a single (probabilist
 | Publication | Paper Title                                                  |              Code/Project               |
 | :---------: | ------------------------------------------------------------ | :-------------------------------------: |
 |    AAAI     | [Flexible Concept Bottleneck Model](https://arxiv.org/pdf/2511.06678) | [Code](https://github.com/deepopo/FCBM) |
+|    Arxiv    | [Selecting Decision-Relevant Concepts in Reinforcement Learning](https://arxiv.org/abs/2604.04808) | [Code](https://github.com/naveenr414/concept_decisions) |
 |             |                                                              |                                         |
 
 ### 2025
@@ -131,6 +132,7 @@ The original Concept Bottleneck Model maps each concept to a single (probabilist
 |   ICLR   | [Concept Bottleneck Large Language Models](https://openreview.net/forum?id=RC5FPYVQaH) |    [Code](https://github.com/Trustworthy-ML-Lab/CB-LLMs)     |
 |   ICLR   | [CONDA: Adaptive Concept Bottleneck for Foundation Models Under Distribution Shifts](https://iclr.cc/virtual/2025/poster/30736) |         [Code](https://github.com/jihyechoi77/CONDA)         |
 |   ICLR   | [Concept Bottleneck Language Models For Protein Design](https://iclr.cc/virtual/2025/poster/29243) |                              -                               |
+| ICLR | [LICORICE: Label-Efficient Concept-Based Interpretable Reinforcement Learning](https://arxiv.org/abs/2407.15786) | [Code](https://github.com/cuizhuyefei/LICORICE) |
 | ICLR W | [Causally Reliable Concept Bottleneck Models](https://arxiv.org/abs/2503.04363) | [Code](https://github.com/gdefe/causally-reliable-cbm) |
 | ICLR W | [Adaptive Test-Time Intervention for Concept Bottleneck Models](https://openreview.net/forum?id=wBygggbUV8) | [Code](https://github.com/mattyshen/adaptiveTTI) |
 |   ICML   | [Editable Concept Bottleneck Models](https://dblp.uni-trier.de/rec/journals/corr/abs-2405-15476.html) |                              -                               |
